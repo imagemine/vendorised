@@ -5,14 +5,14 @@ skhatri/k8s-read:0.9.1,vendorised/k8s-read:0.9.1,done
 skhatri/k8s-read:0.9.2,vendorised/k8s-read:0.9.2,done
 
 
-kubesailmaker/kube-view:v2.0.2,vendorised/kube-view:v2.0.2,ready
-kubesailmaker/job-lease-keeper:0.10.2,vendorised/job-lease-keeper:0.10.2,ready
-kubesailmaker/superset-trino:0.3,vendorised/superset-trino:0.3,ready
-kubesailmaker/git-checkout:0.6,vendorised/git-checkout:0.6,ready
-kubesailmaker/airflow:2.0.1-python3.8-b1,vendorised/airflow:2.0.1-python3.8-b1,ready
+kubesailmaker/kube-view:v2.0.2,vendorised/kube-view:v2.0.2,done
+kubesailmaker/job-lease-keeper:0.10.2,vendorised/job-lease-keeper:0.10.2,done
+kubesailmaker/superset-trino:0.3,vendorised/superset-trino:0.3,done
+kubesailmaker/git-checkout:0.6,vendorised/git-checkout:0.6,done
+kubesailmaker/airflow:2.0.1-python3.8-b1,vendorised/airflow:2.0.1-python3.8-b1,done
 
-typeboot/executor:0.8,vendorised/typeboot-executor:0.8
-sujanks/sumologic-kubernetes-fluentd:1.12.2-sumo-0,vendorised/sumologic-kubernetes-fluentd:1.12.0-sumo-0
+typeboot/executor:0.8,vendorised/typeboot-executor:0.8,ready
+sujanks/sumologic-kubernetes-fluentd:1.12.2-sumo-0,vendorised/sumologic-kubernetes-fluentd:1.12.0-sumo-0,ready
 
 skhatri/aws-cli-tar:0.2,vendorised/aws-cli:0.7
 skhatri/k8s-git-sync:v3.1.0,vendorised/k8s-git-sync:v3.1.0
