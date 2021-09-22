@@ -14,15 +14,15 @@ kubesailmaker/airflow:2.0.1-python3.8-b1,vendorised/airflow:2.0.1-python3.8-b1,d
 typeboot/executor:0.8,vendorised/typeboot-executor:0.8,done
 sujanks/sumologic-kubernetes-fluentd:1.12.2-sumo-0,vendorised/sumologic-kubernetes-fluentd:1.12.0-sumo-0,done
 
-skhatri/aws-cli-tar:0.2,vendorised/aws-cli:0.7,ready
-skhatri/k8s-git-sync:v3.1.0,vendorised/k8s-git-sync:v3.1.0,ready
-skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,vendorised/datastax-dse-server-ro:6.8.9-ubi7-b4,ready
+skhatri/aws-cli-tar:0.2,vendorised/aws-cli:0.7,done
+skhatri/k8s-git-sync:v3.1.0,vendorised/k8s-git-sync:v3.1.0,done
+skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,vendorised/datastax-dse-server-ro:6.8.9-ubi7-b4,done
 
-travix/vault-exporter:1.1.0,vendorised/vault-exporter:1.1.0
-travix/vault-exporter:1.1.2,vendorised/vault-exporter:1.1.2
+travix/vault-exporter:1.1.0,vendorised/vault-exporter:1.1.0,ready
+travix/vault-exporter:1.1.2,vendorised/vault-exporter:1.1.2,ready
 
-realworld/telnet:latest,vendorised/telnet:latest
-realworld/telnet:latest,vendorised/telnet:1.0.0
+realworld/telnet:latest,vendorised/telnet:latest,ready
+realworld/telnet:latest,vendorised/telnet:1.0.0,ready
 
 trinodb/trino-client:352,vendorised/trino-client:352
 trinodb/trino:352,vendorised/trino:352
