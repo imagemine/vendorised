@@ -11,12 +11,12 @@ kubesailmaker/superset-trino:0.3,vendorised/superset-trino:0.3,done
 kubesailmaker/git-checkout:0.6,vendorised/git-checkout:0.6,done
 kubesailmaker/airflow:2.0.1-python3.8-b1,vendorised/airflow:2.0.1-python3.8-b1,done
 
-typeboot/executor:0.8,vendorised/typeboot-executor:0.8,ready
-sujanks/sumologic-kubernetes-fluentd:1.12.2-sumo-0,vendorised/sumologic-kubernetes-fluentd:1.12.0-sumo-0,ready
+typeboot/executor:0.8,vendorised/typeboot-executor:0.8,done
+sujanks/sumologic-kubernetes-fluentd:1.12.2-sumo-0,vendorised/sumologic-kubernetes-fluentd:1.12.0-sumo-0,done
 
-skhatri/aws-cli-tar:0.2,vendorised/aws-cli:0.7
-skhatri/k8s-git-sync:v3.1.0,vendorised/k8s-git-sync:v3.1.0
-skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,vendorised/datastax-dse-server-ro:6.8.9-ubi7-b4
+skhatri/aws-cli-tar:0.2,vendorised/aws-cli:0.7,ready
+skhatri/k8s-git-sync:v3.1.0,vendorised/k8s-git-sync:v3.1.0,ready
+skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,vendorised/datastax-dse-server-ro:6.8.9-ubi7-b4,ready
 
 travix/vault-exporter:1.1.0,vendorised/vault-exporter:1.1.0
 travix/vault-exporter:1.1.2,vendorised/vault-exporter:1.1.2
