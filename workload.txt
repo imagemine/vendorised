@@ -11,23 +11,22 @@ kubesailmaker/superset-trino:0.3,vendorised/superset-trino:0.3,done
 kubesailmaker/git-checkout:0.6,vendorised/git-checkout:0.6,done
 kubesailmaker/airflow:2.0.1-python3.8-b1,vendorised/airflow:2.0.1-python3.8-b1,done
 
-kubesailmaker/airflow:2.0.0-python3.8
-kubesailmaker/airflow:2.0.0-python3.8-b3
-kubesailmaker/airflow:2.0.0b2
-kubesailmaker/android-builder:0.2
-kubesailmaker/jupyter-dev:latest
-kubesailmaker/k8s-read:0.7
-kubesailmaker/microservices-java-alpine:1.0.9
-imagemine/microservices-java-alpine:v1.0.1
-imagemine/eks-deployer:v1.0.0
-imagemine/curl:v1.0.0
-imagemine/airflow:v2.0.1-2.1.2-python3.8
+kubesailmaker/airflow:2.0.0-python3.8,vendorised/airflow:2.0.0-python3.8,ready
+kubesailmaker/airflow:2.0.0-python3.8-b3,vendorised/airflow:2.0.0-python3.8-b3,ready
+kubesailmaker/airflow:2.0.0b2,vendorised/airflow:2.0.0b2,ready
+kubesailmaker/android-builder:0.2,vendorised/android-builder:0.2,ready
+kubesailmaker/jupyter-dev:latest,vendorised/jupyter-dev:latest,ready
+kubesailmaker/k8s-read:0.7,vendorised/k8s-read:0.7,ready
+kubesailmaker/microservices-java-alpine:1.0.9,vendorised/microservices-java-alpine:1.0.9,ready
+imagemine/microservices-java-alpine:v1.0.1,vendorised/microservices-java-alpine:v1.0.1,ready
+imagemine/eks-deployer:v1.0.0,vendorised/eks-deployer:v1.0.0,ready
+imagemine/curl:v1.0.0,vendorised/curl:v1.0.0,ready
+imagemine/airflow:v2.0.1-2.1.2-python3.8,vendorised/airflow:v2.0.1-2.1.2-python3.8,ready
 
 typeboot/executor:0.8,vendorised/typeboot-executor:0.8,done
-
-typeboot/executor:0.2,vendorised/typeboot-executor:0.2,ready
-public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-0,vendorised/sumologic-kubernetes-fluentd:1.12.2-sumo-0,ready
-public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-4,vendorised/sumologic-kubernetes-fluentd:1.12.2-sumo-4,ready
+typeboot/executor:0.2,vendorised/typeboot-executor:0.2,done
+public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-0,vendorised/sumologic-kubernetes-fluentd:1.12.2-sumo-0,done
+public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-4,vendorised/sumologic-kubernetes-fluentd:1.12.2-sumo-4,done
 
 skhatri/aws-cli-tar:0.2,vendorised/aws-cli:0.7,done
 skhatri/k8s-git-sync:v3.1.0,vendorised/k8s-git-sync:v3.1.0,done
