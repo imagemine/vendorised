@@ -4,8 +4,8 @@ imagemine/spark:3.1.1,vendorised/spark:3.1.1,done
 imagemine/spark:3.1.2,vendorised/spark:3.1.2,done
 skhatri/spark:v3.0.2,vendorised/spark:3.0.2,done
 skhatri/spark:v3.0.1-b1,vendorised/spark:3.0.1-b1,done
-skhatri/gpg:0.6,vendorised/gpg:0.6,ready
-sc-eks-snapshot-scheduler/snapshot-scheduler:v1.0,vendorised/eks-snapshot-scheduler:v1.0,ready
+skhatri/gpg:0.6,vendorised/gpg:0.6,done
+sc-eks-snapshot-scheduler/snapshot-scheduler:v1.0,vendorised/eks-snapshot-scheduler:v1.0,notfound
 shukla/solace-exporter:latest,vendorised/solace-exporter:latest,ready
 oliver006/redis_exporter:v1.3.2,vendorised/redis_exporter:v1.3.2,ready
 dpage/pgadmin4,vendorised/pgadmin4:latest,ready
@@ -23,7 +23,8 @@ dpage/pgadmin4:5.1,vendorised/pgadmin4:5.1,ready
 #confluentinc/cp-zookeeper:6.2.0,vendorised/coordination-server:6.2.0,ready
 #confluentinc/cp-kafka:6.2.0,vendorised/kafka:6.2.0,ready
 #confluentinc/cp-kafka:6.2.0,vendorised/log-broker:6.2.0,ready
-
+#confluentinc/ksqldb-server:0.21.0,vendorised/sqldb-server:0.21.0,ready
+#confluentinc/ksqldb-cli:0.21.0,vendorised/sqldb-cli:0.21.0,ready
 
 busybox:latest,vendorised/busybox:latest,done
 busybox:latest,vendorised/busybox:1.0.0,done
