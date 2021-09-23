@@ -2,7 +2,7 @@
 
 set -eo pipefail
 
-for item in $(cat workload.txt|grep ready);
+for item in $(cat workload.txt|grep ready|grep -v "^#");
 do
   read source target <<< $(echo $item|awk -F"," '{print $1" "$2}')
   docker pull ${source}
