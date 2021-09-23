@@ -61,24 +61,24 @@ public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-0,cloudnativek8s/sumolog
 public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-4,cloudnativek8s/sumologic-kubernetes-fluentd:1.12.2-sumo-4,done
 
 skhatri/aws-cli-tar:0.2,cloudnativek8s/aws-cli:0.7,done
-skhatri/k8s-git-sync:v3.1.0,cloudnativek8s/k8s-git-sync:v3.1.0,ready
-k8s.gcr.io/git-sync/git-sync:v3.3.2,cloudnativek8s/k8s-git-sync:v3.3.2,ready
-k8s.gcr.io/git-sync/git-sync:v3.3.4,cloudnativek8s/k8s-git-sync:v3.3.4,ready
-skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,cloudnativek8s/datastax-dse-server-ro:6.8.9-ubi7-b4,ready
+skhatri/k8s-git-sync:v3.1.0,cloudnativek8s/k8s-git-sync:v3.1.0,done
+k8s.gcr.io/git-sync/git-sync:v3.3.2,cloudnativek8s/k8s-git-sync:v3.3.2,done
+k8s.gcr.io/git-sync/git-sync:v3.3.4,cloudnativek8s/k8s-git-sync:v3.3.4,done
+skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,cloudnativek8s/datastax-dse-server-ro:6.8.9-ubi7-b4,done
 
-travix/vault-exporter:1.1.2,cloudnativek8s/vault-exporter:1.1.2,ready
+travix/vault-exporter:1.1.2,cloudnativek8s/vault-exporter:1.1.2,done
 
-realworld/telnet:latest,cloudnativek8s/telnet:latest,ready
-realworld/telnet:latest,cloudnativek8s/telnet:1.0.0,ready
+realworld/telnet:latest,cloudnativek8s/telnet:latest,done
+realworld/telnet:latest,cloudnativek8s/telnet:1.0.0,done
 
-skhatri/trino-client:352,cloudnativek8s/trino-client:352,ready
-trinodb/trino:352,cloudnativek8s/trino:352,ready
-trinodb/trino:362,cloudnativek8s/trino:362,ready
-amancevice/superset:0.36.0,cloudnativek8s/superset:0.36.0,ready
+skhatri/trino-client:352,cloudnativek8s/trino-client:352,done
+trinodb/trino:352,cloudnativek8s/trino:352,done
+trinodb/trino:362,cloudnativek8s/trino:362,done
+amancevice/superset:0.36.0,cloudnativek8s/superset:0.36.0,done
 
-curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,ready
+curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,done
 
-kiwigrid/k8s-sidecar:1.1.0,cloudnativek8s/k8s-sidecar:1.1.0,ready
+kiwigrid/k8s-sidecar:1.1.0,cloudnativek8s/k8s-sidecar:1.1.0,done
 
 
 
