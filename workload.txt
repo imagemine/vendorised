@@ -18,18 +18,21 @@ skhatri/aws-cli-tar:0.2,vendorised/aws-cli:0.7,done
 skhatri/k8s-git-sync:v3.1.0,vendorised/k8s-git-sync:v3.1.0,done
 skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,vendorised/datastax-dse-server-ro:6.8.9-ubi7-b4,done
 
-travix/vault-exporter:1.1.2,vendorised/vault-exporter:1.1.2,ready
+travix/vault-exporter:1.1.2,vendorised/vault-exporter:1.1.2,done
 
-realworld/telnet:latest,vendorised/telnet:latest,ready
-realworld/telnet:latest,vendorised/telnet:1.0.0,ready
+realworld/telnet:latest,vendorised/telnet:latest,done
+realworld/telnet:latest,vendorised/telnet:1.0.0,done
 
-trinodb/trino-client:352,vendorised/trino-client:352
-trinodb/trino:352,vendorised/trino:352
-amancevice/superset:0.36.0,vendorised/superset:0.36.0
+trinodb/trino-client:352,vendorised/trino-client:352,ready
+trinodb/trino:352,vendorised/trino:352,ready
+trinodb/trino-client:361,vendorised/trino-client:361,ready
+trinodb/trino:361,vendorised/trino:361,ready
+amancevice/superset:0.36.0,vendorised/superset:0.36.0,ready
 
-curlimages/curl:7.73.0,vendorised/curl:7.73.0
+curlimages/curl:7.73.0,vendorised/curl:7.73.0,ready
 
-kiwigrid/k8s-sidecar:1.1.0,vendorised/k8s-sidecar:1.1.0
+kiwigrid/k8s-sidecar:1.1.0,vendorised/k8s-sidecar:1.1.0,ready
+
 
 
 grafana/grafana:7.2.1,vendorised/grafana:7.2.1
