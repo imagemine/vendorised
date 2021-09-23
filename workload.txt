@@ -1,9 +1,21 @@
+#DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
+jekyll/builder:4.1.0,vendorised/jekyll-builder:4.1.0,ready
+imagemine/spark:3.1.1,vendorised/spark:3.1.1,ready
+imagemine/spark:3.1.2,vendorised/spark:3.1.2,ready
+skhatri/spark:v3.0.2,vendorised/spark:3.0.2,ready
+skhatri/spark:v3.0.1-b1,vendorised/spark:3.0.1-b1,ready
+pflooky/gpg:0.7.1,vendorised/gpg:0.7.1,ready
+sc-eks-snapshot-scheduler/snapshot-scheduler:v1.0,vendorised/eks-snapshot-scheduler:v1.0,ready
+shukla/solace-exporter:latest,vendorised/solace-exporter:latest,ready
+oliver006/redis_exporter:v1.3.2,vendorised/redis_exporter:v1.3.2,ready
+dpage/pgadmin4,vendorised/pgadmin4:latest,ready
+dpage/pgadmin4:5.1,vendorised/pgadmin4:5.1,ready
+
 busybox:latest,vendorised/busybox:latest,done
 busybox:latest,vendorised/busybox:1.0.0,done
 skhatri/apache-hive:3.1.2.2,vendorised/apache-hive:3.1.2.2,done
 skhatri/k8s-read:0.9.1,vendorised/k8s-read:0.9.1,done
 skhatri/k8s-read:0.9.2,vendorised/k8s-read:0.9.2,done
-
 
 kubesailmaker/kube-view:v2.0.2,vendorised/kube-view:v2.0.2,done
 kubesailmaker/job-lease-keeper:0.10.2,vendorised/job-lease-keeper:0.10.2,done
@@ -11,17 +23,17 @@ kubesailmaker/superset-trino:0.3,vendorised/superset-trino:0.3,done
 kubesailmaker/git-checkout:0.6,vendorised/git-checkout:0.6,done
 kubesailmaker/airflow:2.0.1-python3.8-b1,vendorised/airflow:2.0.1-python3.8-b1,done
 
-kubesailmaker/airflow:2.0.0-python3.8,vendorised/airflow:2.0.0-python3.8,ready
-kubesailmaker/airflow:2.0.0-python3.8-b3,vendorised/airflow:2.0.0-python3.8-b3,ready
-kubesailmaker/airflow:2.0.0b2,vendorised/airflow:2.0.0b2,ready
-kubesailmaker/android-builder:0.2,vendorised/android-builder:0.2,ready
-kubesailmaker/jupyter-dev:latest,vendorised/jupyter-dev:latest,ready
-kubesailmaker/k8s-read:0.7,vendorised/k8s-read:0.7,ready
-kubesailmaker/microservices-java-alpine:1.0.9,vendorised/microservices-java-alpine:1.0.9,ready
-imagemine/microservices-java-alpine:v1.0.1,vendorised/microservices-java-alpine:v1.0.1,ready
-imagemine/eks-deployer:v1.0.0,vendorised/eks-deployer:v1.0.0,ready
-imagemine/curl:v1.0.0,vendorised/curl:v1.0.0,ready
-imagemine/airflow:v2.0.1-2.1.2-python3.8,vendorised/airflow:v2.0.1-2.1.2-python3.8,ready
+kubesailmaker/airflow:2.0.0-python3.8,vendorised/airflow:2.0.0-python3.8,done
+kubesailmaker/airflow:2.0.0-python3.8-b3,vendorised/airflow:2.0.0-python3.8-b3,done
+kubesailmaker/airflow:2.0.0b2,vendorised/airflow:2.0.0b2,done
+kubesailmaker/android-builder:0.2,vendorised/android-builder:0.2,done
+kubesailmaker/jupyter-dev:latest,vendorised/jupyter-dev:latest,done
+kubesailmaker/k8s-read:0.7,vendorised/k8s-read:0.7,done
+kubesailmaker/microservices-java-alpine:1.0.9,vendorised/microservices-java-alpine:1.0.9,done
+imagemine/microservices-java-alpine:v1.0.1,vendorised/microservices-java-alpine:v1.0.1,done
+imagemine/eks-deployer:v1.0.0,vendorised/eks-deployer:v1.0.0,done
+imagemine/curl:v1.0.0,vendorised/curl:v1.0.0,done
+imagemine/airflow:v2.0.1-2.1.2-python3.8,vendorised/airflow:v2.0.1-2.1.2-python3.8,done
 
 typeboot/executor:0.8,vendorised/typeboot-executor:0.8,done
 typeboot/executor:0.2,vendorised/typeboot-executor:0.2,done
@@ -45,6 +57,9 @@ amancevice/superset:0.36.0,vendorised/superset:0.36.0,done
 curlimages/curl:7.73.0,vendorised/curl:7.73.0,done
 
 kiwigrid/k8s-sidecar:1.1.0,vendorised/k8s-sidecar:1.1.0,done
+
+
+
 
 
 
