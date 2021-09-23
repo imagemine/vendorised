@@ -19,17 +19,17 @@ anantagarwal/opa:0.31.2,vendorised/opa:0.31.2,done
 skhatri/opa:0.19.4,vendorised/opa:0.19.4,done
 redis:5.0.7-alpine,vendorised/redis:5.0.7-alpine,done
 redis:5.0.7-alpine,vendorised/queue-server:5.0.7-alpine,done
-confluentinc/cp-zookeeper:6.2.0,vendorised/zookeeper:6.2.0,ready
-confluentinc/cp-zookeeper:6.2.0,vendorised/coordination-server:6.2.0,ready
-confluentinc/cp-kafka:6.2.0,vendorised/kafka:6.2.0,ready
-confluentinc/cp-kafka:6.2.0,vendorised/log-broker:6.2.0,ready
-confluentinc/cp-zookeeper:5.2.6,vendorised/zookeeper:5.2.0,ready
-confluentinc/cp-zookeeper:5.2.6,vendorised/coordination-server:5.2.6,ready
-confluentinc/cp-kafka:5.2.6,vendorised/kafka:5.2.6,ready
-confluentinc/cp-kafka:5.2.6,vendorised/log-broker:5.2.6,ready
+confluentinc/cp-zookeeper:6.2.0,vendorised/zookeeper:6.2.0,done
+confluentinc/cp-zookeeper:6.2.0,vendorised/coordination-server:6.2.0,done
+confluentinc/cp-kafka:6.2.0,vendorised/kafka:6.2.0,done
+confluentinc/cp-kafka:6.2.0,vendorised/log-broker:6.2.0,done
+confluentinc/cp-zookeeper:5.2.6,vendorised/zookeeper:5.2.0,done
+confluentinc/cp-zookeeper:5.2.6,vendorised/coordination-server:5.2.6,done
+confluentinc/cp-kafka:5.2.6,vendorised/kafka:5.2.6,done
+confluentinc/cp-kafka:5.2.6,vendorised/log-broker:5.2.6,done
 
-confluentinc/ksqldb-server:0.21.0,vendorised/sqldb-server:0.21.0,ready
-confluentinc/ksqldb-cli:0.21.0,vendorised/sqldb-cli:0.21.0,ready
+confluentinc/ksqldb-server:0.21.0,vendorised/sqldb-server:0.21.0,done
+confluentinc/ksqldb-cli:0.21.0,vendorised/sqldb-cli:0.21.0,done
 
 busybox:latest,vendorised/busybox:latest,done
 busybox:latest,vendorised/busybox:1.0.0,done
