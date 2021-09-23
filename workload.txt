@@ -62,8 +62,8 @@ public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-4,vendorised/sumologic-k
 
 skhatri/aws-cli-tar:0.2,vendorised/aws-cli:0.7,done
 skhatri/k8s-git-sync:v3.1.0,vendorised/k8s-git-sync:v3.1.0,done
-k8s.gcr.io/git-sync/git-sync:v3.1.0,vendorised/k8s-git-sync:v3.1.0,ready
 k8s.gcr.io/git-sync/git-sync:v3.3.2,vendorised/k8s-git-sync:v3.3.2,ready
+k8s.gcr.io/git-sync/git-sync:v3.3.4,vendorised/k8s-git-sync:v3.3.4,ready
 skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,vendorised/datastax-dse-server-ro:6.8.9-ubi7-b4,done
 
 travix/vault-exporter:1.1.2,vendorised/vault-exporter:1.1.2,done
