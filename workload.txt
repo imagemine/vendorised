@@ -1,108 +1,108 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
-jekyll/builder:4.1.0,vendorised/jekyll-builder:4.1.0,done
-imagemine/spark:3.1.1,vendorised/spark:3.1.1,done
-imagemine/spark:3.1.2,vendorised/spark:3.1.2,done
-skhatri/spark:v3.0.2,vendorised/spark:3.0.2,done
-skhatri/spark:v3.0.1-b1,vendorised/spark:3.0.1-b1,done
-skhatri/gpg:0.6,vendorised/gpg:0.6,done
-sc-eks-snapshot-scheduler/snapshot-scheduler:v1.0,vendorised/eks-snapshot-scheduler:v1.0,notfound
-shukla2009/solace_exporter:latest,vendorised/solace_exporter:latest,done
-oliver006/redis_exporter:v1.3.2,vendorised/redis_exporter:v1.3.2,done
-dpage/pgadmin4,vendorised/pgadmin4:latest,done
-dpage/pgadmin4:5.1,vendorised/pgadmin4:5.1,done
+jekyll/builder:4.1.0,cloudnativek8s/jekyll-builder:4.1.0,ready
+imagemine/spark:3.1.1,cloudnativek8s/spark:3.1.1,ready
+imagemine/spark:3.1.2,cloudnativek8s/spark:3.1.2,ready
+skhatri/spark:v3.0.2,cloudnativek8s/spark:3.0.2,ready
+skhatri/spark:v3.0.1-b1,cloudnativek8s/spark:3.0.1-b1,ready
+skhatri/gpg:0.6,cloudnativek8s/gpg:0.6,ready
+sc-eks-snapshot-scheduler/snapshot-scheduler:v1.0,cloudnativek8s/eks-snapshot-scheduler:v1.0,notfound
+shukla2009/solace_exporter:latest,cloudnativek8s/solace_exporter:latest,ready
+oliver006/redis_exporter:v1.3.2,cloudnativek8s/redis_exporter:v1.3.2,ready
+dpage/pgadmin4,cloudnativek8s/pgadmin4:latest,ready
+dpage/pgadmin4:5.1,cloudnativek8s/pgadmin4:5.1,ready
 
-envoyproxy/envoy:v1.19.1,vendorised/front-proxy:v1.19.1,done
-envoyproxy/envoy:v1.19.1,vendorised/envoy:v1.19.1,done
-typeboot/typeboot-spec:0.4,vendorised/typeboot-spec:0.4,done
-sujanks/opa:0.31.0,vendorised/opa:0.31.0,done
-anantagarwal/opa:0.31.2,vendorised/opa:0.31.2,done
-skhatri/opa:0.19.4,vendorised/opa:0.19.4,done
-redis:5.0.7-alpine,vendorised/redis:5.0.7-alpine,done
-redis:5.0.7-alpine,vendorised/queue-server:5.0.7-alpine,done
-confluentinc/cp-zookeeper:6.2.0,vendorised/zookeeper:6.2.0,done
-confluentinc/cp-zookeeper:6.2.0,vendorised/coordination-server:6.2.0,done
-confluentinc/cp-kafka:6.2.0,vendorised/kafka:6.2.0,done
-confluentinc/cp-kafka:6.2.0,vendorised/log-broker:6.2.0,done
-confluentinc/cp-zookeeper:5.2.6,vendorised/zookeeper:5.2.0,done
-confluentinc/cp-zookeeper:5.2.6,vendorised/coordination-server:5.2.6,done
-confluentinc/cp-kafka:5.2.6,vendorised/kafka:5.2.6,done
-confluentinc/cp-kafka:5.2.6,vendorised/log-broker:5.2.6,done
+envoyproxy/envoy:v1.19.1,cloudnativek8s/front-proxy:v1.19.1,ready
+envoyproxy/envoy:v1.19.1,cloudnativek8s/envoy:v1.19.1,ready
+typeboot/typeboot-spec:0.4,cloudnativek8s/typeboot-spec:0.4,ready
+sujanks/opa:0.31.0,cloudnativek8s/opa:0.31.0,ready
+anantagarwal/opa:0.31.2,cloudnativek8s/opa:0.31.2,ready
+skhatri/opa:0.19.4,cloudnativek8s/opa:0.19.4,ready
+redis:5.0.7-alpine,cloudnativek8s/redis:5.0.7-alpine,ready
+redis:5.0.7-alpine,cloudnativek8s/queue-server:5.0.7-alpine,ready
+confluentinc/cp-zookeeper:6.2.0,cloudnativek8s/zookeeper:6.2.0,ready
+confluentinc/cp-zookeeper:6.2.0,cloudnativek8s/coordination-server:6.2.0,ready
+confluentinc/cp-kafka:6.2.0,cloudnativek8s/kafka:6.2.0,done
+confluentinc/cp-kafka:6.2.0,cloudnativek8s/log-broker:6.2.0,done
+confluentinc/cp-zookeeper:5.2.6,cloudnativek8s/zookeeper:5.2.0,done
+confluentinc/cp-zookeeper:5.2.6,cloudnativek8s/coordination-server:5.2.6,done
+confluentinc/cp-kafka:5.2.6,cloudnativek8s/kafka:5.2.6,done
+confluentinc/cp-kafka:5.2.6,cloudnativek8s/log-broker:5.2.6,done
 
-confluentinc/ksqldb-server:0.21.0,vendorised/sqldb-server:0.21.0,done
-confluentinc/ksqldb-cli:0.21.0,vendorised/sqldb-cli:0.21.0,done
+confluentinc/ksqldb-server:0.21.0,cloudnativek8s/sqldb-server:0.21.0,done
+confluentinc/ksqldb-cli:0.21.0,cloudnativek8s/sqldb-cli:0.21.0,done
 
-busybox:latest,vendorised/busybox:latest,done
-busybox:latest,vendorised/busybox:1.0.0,done
-skhatri/apache-hive:3.1.2.2,vendorised/apache-hive:3.1.2.2,done
-skhatri/k8s-read:0.9.1,vendorised/k8s-read:0.9.1,done
-skhatri/k8s-read:0.9.2,vendorised/k8s-read:0.9.2,done
+busybox:latest,cloudnativek8s/busybox:latest,done
+busybox:latest,cloudnativek8s/busybox:1.0.0,done
+skhatri/apache-hive:3.1.2.2,cloudnativek8s/apache-hive:3.1.2.2,done
+skhatri/k8s-read:0.9.1,cloudnativek8s/k8s-read:0.9.1,done
+skhatri/k8s-read:0.9.2,cloudnativek8s/k8s-read:0.9.2,done
 
-kubesailmaker/kube-view:v2.0.2,vendorised/kube-view:v2.0.2,done
-kubesailmaker/job-lease-keeper:0.10.2,vendorised/job-lease-keeper:0.10.2,done
-kubesailmaker/superset-trino:0.3,vendorised/superset-trino:0.3,done
-kubesailmaker/git-checkout:0.6,vendorised/git-checkout:0.6,done
-kubesailmaker/airflow:2.0.1-python3.8-b1,vendorised/airflow:2.0.1-python3.8-b1,done
+kubesailmaker/kube-view:v2.0.2,cloudnativek8s/kube-view:v2.0.2,done
+kubesailmaker/job-lease-keeper:0.10.2,cloudnativek8s/job-lease-keeper:0.10.2,done
+kubesailmaker/superset-trino:0.3,cloudnativek8s/superset-trino:0.3,done
+kubesailmaker/git-checkout:0.6,cloudnativek8s/git-checkout:0.6,done
+kubesailmaker/airflow:2.0.1-python3.8-b1,cloudnativek8s/airflow:2.0.1-python3.8-b1,done
 
-kubesailmaker/airflow:2.0.0-python3.8,vendorised/airflow:2.0.0-python3.8,done
-kubesailmaker/airflow:2.0.0-python3.8-b3,vendorised/airflow:2.0.0-python3.8-b3,done
-kubesailmaker/airflow:2.0.0b2,vendorised/airflow:2.0.0b2,done
-kubesailmaker/android-builder:0.2,vendorised/android-builder:0.2,done
-kubesailmaker/jupyter-dev:latest,vendorised/jupyter-dev:latest,done
-kubesailmaker/k8s-read:0.7,vendorised/k8s-read:0.7,done
-kubesailmaker/microservices-java-alpine:1.0.9,vendorised/microservices-java-alpine:1.0.9,done
-imagemine/microservices-java-alpine:v1.0.1,vendorised/microservices-java-alpine:v1.0.1,done
-imagemine/eks-deployer:v1.0.0,vendorised/eks-deployer:v1.0.0,done
-imagemine/curl:v1.0.0,vendorised/curl:v1.0.0,done
-imagemine/airflow:v2.0.1-2.1.2-python3.8,vendorised/airflow:v2.0.1-2.1.2-python3.8,done
+kubesailmaker/airflow:2.0.0-python3.8,cloudnativek8s/airflow:2.0.0-python3.8,done
+kubesailmaker/airflow:2.0.0-python3.8-b3,cloudnativek8s/airflow:2.0.0-python3.8-b3,done
+kubesailmaker/airflow:2.0.0b2,cloudnativek8s/airflow:2.0.0b2,done
+kubesailmaker/android-builder:0.2,cloudnativek8s/android-builder:0.2,done
+kubesailmaker/jupyter-dev:latest,cloudnativek8s/jupyter-dev:latest,done
+kubesailmaker/k8s-read:0.7,cloudnativek8s/k8s-read:0.7,done
+kubesailmaker/microservices-java-alpine:1.0.9,cloudnativek8s/microservices-java-alpine:1.0.9,done
+imagemine/microservices-java-alpine:v1.0.1,cloudnativek8s/microservices-java-alpine:v1.0.1,done
+imagemine/eks-deployer:v1.0.0,cloudnativek8s/eks-deployer:v1.0.0,done
+imagemine/curl:v1.0.0,cloudnativek8s/curl:v1.0.0,done
+imagemine/airflow:v2.0.1-2.1.2-python3.8,cloudnativek8s/airflow:v2.0.1-2.1.2-python3.8,done
 
-typeboot/executor:0.8,vendorised/typeboot-executor:0.8,done
-typeboot/executor:0.2,vendorised/typeboot-executor:0.2,done
-public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-0,vendorised/sumologic-kubernetes-fluentd:1.12.2-sumo-0,done
-public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-4,vendorised/sumologic-kubernetes-fluentd:1.12.2-sumo-4,done
+typeboot/executor:0.8,cloudnativek8s/typeboot-executor:0.8,done
+typeboot/executor:0.2,cloudnativek8s/typeboot-executor:0.2,done
+public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-0,cloudnativek8s/sumologic-kubernetes-fluentd:1.12.2-sumo-0,done
+public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-4,cloudnativek8s/sumologic-kubernetes-fluentd:1.12.2-sumo-4,done
 
-skhatri/aws-cli-tar:0.2,vendorised/aws-cli:0.7,done
-skhatri/k8s-git-sync:v3.1.0,vendorised/k8s-git-sync:v3.1.0,done
-k8s.gcr.io/git-sync/git-sync:v3.3.2,vendorised/k8s-git-sync:v3.3.2,done
-k8s.gcr.io/git-sync/git-sync:v3.3.4,vendorised/k8s-git-sync:v3.3.4,done
-skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,vendorised/datastax-dse-server-ro:6.8.9-ubi7-b4,done
+skhatri/aws-cli-tar:0.2,cloudnativek8s/aws-cli:0.7,done
+skhatri/k8s-git-sync:v3.1.0,cloudnativek8s/k8s-git-sync:v3.1.0,done
+k8s.gcr.io/git-sync/git-sync:v3.3.2,cloudnativek8s/k8s-git-sync:v3.3.2,done
+k8s.gcr.io/git-sync/git-sync:v3.3.4,cloudnativek8s/k8s-git-sync:v3.3.4,done
+skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,cloudnativek8s/datastax-dse-server-ro:6.8.9-ubi7-b4,done
 
-travix/vault-exporter:1.1.2,vendorised/vault-exporter:1.1.2,done
+travix/vault-exporter:1.1.2,cloudnativek8s/vault-exporter:1.1.2,done
 
-realworld/telnet:latest,vendorised/telnet:latest,done
-realworld/telnet:latest,vendorised/telnet:1.0.0,done
+realworld/telnet:latest,cloudnativek8s/telnet:latest,done
+realworld/telnet:latest,cloudnativek8s/telnet:1.0.0,done
 
-skhatri/trino-client:352,vendorised/trino-client:352,done
-trinodb/trino:352,vendorised/trino:352,done
-trinodb/trino:362,vendorised/trino:362,done
-amancevice/superset:0.36.0,vendorised/superset:0.36.0,done
+skhatri/trino-client:352,cloudnativek8s/trino-client:352,done
+trinodb/trino:352,cloudnativek8s/trino:352,done
+trinodb/trino:362,cloudnativek8s/trino:362,done
+amancevice/superset:0.36.0,cloudnativek8s/superset:0.36.0,done
 
-curlimages/curl:7.73.0,vendorised/curl:7.73.0,done
+curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,done
 
-kiwigrid/k8s-sidecar:1.1.0,vendorised/k8s-sidecar:1.1.0,done
-
-
+kiwigrid/k8s-sidecar:1.1.0,cloudnativek8s/k8s-sidecar:1.1.0,done
 
 
 
 
 
 
-grafana/grafana:7.2.1,vendorised/grafana:7.2.1
-prometheus/prometheus:v2.23.0,vendorised/prometheus:v2.23.0
-prometheus/alertmanager:v0.21.0,vendorised/prometheus-alertmanager:v0.21.0
 
-solacecommunity/solace-prometheus-exporter:v1.4.2,vendorised/solace-prometheus-exporter:v1.4.2
-solace/solace-pubsub-standard:9.8.0.12,vendorised/solace-pubsub-standard:9.8.0.12
 
-vault:1.4.2,vendorised/vault:1.4.2
+grafana/grafana:7.2.1,cloudnativek8s/grafana:7.2.1
+prometheus/prometheus:v2.23.0,cloudnativek8s/prometheus:v2.23.0
+prometheus/alertmanager:v0.21.0,cloudnativek8s/prometheus-alertmanager:v0.21.0
 
-datastax/cass-operator:1.5.0-ubi,vendorised/datastax-cass-operator:1.5.0-ubi
-datastax/cass-operator:1.5.0-ubi7,vendorised/datastax-cass-operator:1.5.0-ubi7
-datastax/cass-operator:1.6.0-ubi,vendorised/datastax-cass-operator:1.6.0-ubi
-datastax/dse-server:6.8.9-ubi7,vendorised/datastax-dse-server:6.8.9-ubi7
+solacecommunity/solace-prometheus-exporter:v1.4.2,cloudnativek8s/solace-prometheus-exporter:v1.4.2
+solace/solace-pubsub-standard:9.8.0.12,cloudnativek8s/solace-pubsub-standard:9.8.0.12
 
-keycloak/keycloak-gatekeeper:7.0.0,vendorised/keycloak-gatekeeper:7.0.0
-jboss/keycloak:15.0.0,vendorised/keycloak:15.0.0
-jboss/keycloak:11.0.2,vendorised/keycloak:11.0.2
+vault:1.4.2,cloudnativek8s/vault:1.4.2
+
+datastax/cass-operator:1.5.0-ubi,cloudnativek8s/datastax-cass-operator:1.5.0-ubi
+datastax/cass-operator:1.5.0-ubi7,cloudnativek8s/datastax-cass-operator:1.5.0-ubi7
+datastax/cass-operator:1.6.0-ubi,cloudnativek8s/datastax-cass-operator:1.6.0-ubi
+datastax/dse-server:6.8.9-ubi7,cloudnativek8s/datastax-dse-server:6.8.9-ubi7
+
+keycloak/keycloak-gatekeeper:7.0.0,cloudnativek8s/keycloak-gatekeeper:7.0.0
+jboss/keycloak:15.0.0,cloudnativek8s/keycloak:15.0.0
+jboss/keycloak:11.0.2,cloudnativek8s/keycloak:11.0.2
 
 
