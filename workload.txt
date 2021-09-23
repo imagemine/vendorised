@@ -21,18 +21,18 @@ redis:5.0.7-alpine,cloudnativek8s/redis:5.0.7-alpine,done
 redis:5.0.7-alpine,cloudnativek8s/queue-server:5.0.7-alpine,done
 confluentinc/cp-zookeeper:6.2.0,cloudnativek8s/zookeeper:6.2.0,done
 confluentinc/cp-zookeeper:6.2.0,cloudnativek8s/coordination-server:6.2.0,done
-confluentinc/cp-kafka:6.2.0,cloudnativek8s/kafka:6.2.0,ready
-confluentinc/cp-kafka:6.2.0,cloudnativek8s/log-broker:6.2.0,ready
-confluentinc/cp-zookeeper:5.2.6,cloudnativek8s/zookeeper:5.2.0,ready
-confluentinc/cp-zookeeper:5.2.6,cloudnativek8s/coordination-server:5.2.6,ready
-confluentinc/cp-kafka:5.2.6,cloudnativek8s/kafka:5.2.6,ready
-confluentinc/cp-kafka:5.2.6,cloudnativek8s/log-broker:5.2.6,ready
+confluentinc/cp-kafka:6.2.0,cloudnativek8s/kafka:6.2.0,done
+confluentinc/cp-kafka:6.2.0,cloudnativek8s/log-broker:6.2.0,done
+confluentinc/cp-zookeeper:5.2.6,cloudnativek8s/zookeeper:5.2.0,done
+confluentinc/cp-zookeeper:5.2.6,cloudnativek8s/coordination-server:5.2.6,done
+confluentinc/cp-kafka:5.2.6,cloudnativek8s/kafka:5.2.6,done
+confluentinc/cp-kafka:5.2.6,cloudnativek8s/log-broker:5.2.6,done
 
-confluentinc/ksqldb-server:0.21.0,cloudnativek8s/sqldb-server:0.21.0,ready
-confluentinc/ksqldb-cli:0.21.0,cloudnativek8s/sqldb-cli:0.21.0,ready
+confluentinc/ksqldb-server:0.21.0,cloudnativek8s/sqldb-server:0.21.0,done
+confluentinc/ksqldb-cli:0.21.0,cloudnativek8s/sqldb-cli:0.21.0,done
 
-busybox:latest,cloudnativek8s/busybox:latest,ready
-busybox:latest,cloudnativek8s/busybox:1.0.0,ready
+busybox:latest,cloudnativek8s/busybox:latest,done
+busybox:latest,cloudnativek8s/busybox:1.0.0,done
 skhatri/apache-hive:3.1.2.2,cloudnativek8s/apache-hive:3.1.2.2,ready
 skhatri/k8s-read:0.9.1,cloudnativek8s/k8s-read:0.9.1,ready
 skhatri/k8s-read:0.9.2,cloudnativek8s/k8s-read:0.9.2,ready
