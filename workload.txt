@@ -11,6 +11,18 @@ kubesailmaker/superset-trino:0.3,vendorised/superset-trino:0.3,done
 kubesailmaker/git-checkout:0.6,vendorised/git-checkout:0.6,done
 kubesailmaker/airflow:2.0.1-python3.8-b1,vendorised/airflow:2.0.1-python3.8-b1,done
 
+kubesailmaker/airflow:2.0.0-python3.8
+kubesailmaker/airflow:2.0.0-python3.8-b3
+kubesailmaker/airflow:2.0.0b2
+kubesailmaker/android-builder:0.2
+kubesailmaker/jupyter-dev:latest
+kubesailmaker/k8s-read:0.7
+kubesailmaker/microservices-java-alpine:1.0.9
+imagemine/microservices-java-alpine:v1.0.1
+imagemine/eks-deployer:v1.0.0
+imagemine/curl:v1.0.0
+imagemine/airflow:v2.0.1-2.1.2-python3.8
+
 typeboot/executor:0.8,vendorised/typeboot-executor:0.8,done
 sujanks/sumologic-kubernetes-fluentd:1.12.2-sumo-0,vendorised/sumologic-kubernetes-fluentd:1.12.0-sumo-0,done
 
@@ -23,15 +35,16 @@ travix/vault-exporter:1.1.2,vendorised/vault-exporter:1.1.2,done
 realworld/telnet:latest,vendorised/telnet:latest,done
 realworld/telnet:latest,vendorised/telnet:1.0.0,done
 
-trinodb/trino-client:352,vendorised/trino-client:352,ready
+skhatri/trino-client:352,vendorised/trino-client:352,ready
 trinodb/trino:352,vendorised/trino:352,ready
-trinodb/trino-client:361,vendorised/trino-client:361,ready
-trinodb/trino:361,vendorised/trino:361,ready
+trinodb/trino:362,vendorised/trino:362,ready
 amancevice/superset:0.36.0,vendorised/superset:0.36.0,ready
 
 curlimages/curl:7.73.0,vendorised/curl:7.73.0,ready
 
 kiwigrid/k8s-sidecar:1.1.0,vendorised/k8s-sidecar:1.1.0,ready
+
+
 
 
 
