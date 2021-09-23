@@ -6,7 +6,7 @@ skhatri/spark:v3.0.2,vendorised/spark:3.0.2,done
 skhatri/spark:v3.0.1-b1,vendorised/spark:3.0.1-b1,done
 skhatri/gpg:0.6,vendorised/gpg:0.6,done
 sc-eks-snapshot-scheduler/snapshot-scheduler:v1.0,vendorised/eks-snapshot-scheduler:v1.0,notfound
-shukla2009/solace-exporter:latest,vendorised/solace-exporter:latest,ready
+shukla2009/solace_exporter:latest,vendorised/solace_exporter:latest,ready
 oliver006/redis_exporter:v1.3.2,vendorised/redis_exporter:v1.3.2,done
 dpage/pgadmin4,vendorised/pgadmin4:latest,done
 dpage/pgadmin4:5.1,vendorised/pgadmin4:5.1,done
