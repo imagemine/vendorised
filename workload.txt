@@ -43,42 +43,42 @@ kubesailmaker/superset-trino:0.3,cloudnativek8s/superset-trino:0.3,done
 kubesailmaker/git-checkout:0.6,cloudnativek8s/git-checkout:0.6,done
 kubesailmaker/airflow:2.0.1-python3.8-b1,cloudnativek8s/airflow:2.0.1-python3.8-b1,done
 
-kubesailmaker/airflow:2.0.0-python3.8,cloudnativek8s/airflow:2.0.0-python3.8,ready
-kubesailmaker/airflow:2.0.0-python3.8-b3,cloudnativek8s/airflow:2.0.0-python3.8-b3,ready
-kubesailmaker/airflow:2.0.0b2,cloudnativek8s/airflow:2.0.0b2,ready
-kubesailmaker/android-builder:0.2,cloudnativek8s/android-builder:0.2,ready
-kubesailmaker/jupyter-dev:latest,cloudnativek8s/jupyter-dev:latest,ready
-kubesailmaker/k8s-read:0.7,cloudnativek8s/k8s-read:0.7,ready
-kubesailmaker/microservices-java-alpine:1.0.9,cloudnativek8s/microservices-java-alpine:1.0.9,ready
-imagemine/microservices-java-alpine:v1.0.1,cloudnativek8s/microservices-java-alpine:v1.0.1,ready
-imagemine/eks-deployer:v1.0.0,cloudnativek8s/eks-deployer:v1.0.0,ready
-imagemine/curl:v1.0.0,cloudnativek8s/curl:v1.0.0,ready
-imagemine/airflow:v2.0.1-2.1.2-python3.8,cloudnativek8s/airflow:v2.0.1-2.1.2-python3.8,ready
+kubesailmaker/airflow:2.0.0-python3.8,cloudnativek8s/airflow:2.0.0-python3.8,done
+kubesailmaker/airflow:2.0.0-python3.8-b3,cloudnativek8s/airflow:2.0.0-python3.8-b3,done
+kubesailmaker/airflow:2.0.0b2,cloudnativek8s/airflow:2.0.0b2,done
+kubesailmaker/android-builder:0.2,cloudnativek8s/android-builder:0.2,done
+kubesailmaker/jupyter-dev:latest,cloudnativek8s/jupyter-dev:latest,done
+kubesailmaker/k8s-read:0.7,cloudnativek8s/k8s-read:0.7,done
+kubesailmaker/microservices-java-alpine:1.0.9,cloudnativek8s/microservices-java-alpine:1.0.9,done
+imagemine/microservices-java-alpine:v1.0.1,cloudnativek8s/microservices-java-alpine:v1.0.1,done
+imagemine/eks-deployer:v1.0.0,cloudnativek8s/eks-deployer:v1.0.0,done
+imagemine/curl:v1.0.0,cloudnativek8s/curl:v1.0.0,done
+imagemine/airflow:v2.0.1-2.1.2-python3.8,cloudnativek8s/airflow:v2.0.1-2.1.2-python3.8,done
 
-typeboot/executor:0.8,cloudnativek8s/typeboot-executor:0.8,ready
-typeboot/executor:0.2,cloudnativek8s/typeboot-executor:0.2,ready
-public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-0,cloudnativek8s/sumologic-kubernetes-fluentd:1.12.2-sumo-0,ready
-public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-4,cloudnativek8s/sumologic-kubernetes-fluentd:1.12.2-sumo-4,ready
+typeboot/executor:0.8,cloudnativek8s/typeboot-executor:0.8,done
+typeboot/executor:0.2,cloudnativek8s/typeboot-executor:0.2,done
+public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-0,cloudnativek8s/sumologic-kubernetes-fluentd:1.12.2-sumo-0,done
+public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-4,cloudnativek8s/sumologic-kubernetes-fluentd:1.12.2-sumo-4,done
 
-skhatri/aws-cli-tar:0.2,cloudnativek8s/aws-cli:0.7,ready
-skhatri/k8s-git-sync:v3.1.0,cloudnativek8s/k8s-git-sync:v3.1.0,done
-k8s.gcr.io/git-sync/git-sync:v3.3.2,cloudnativek8s/k8s-git-sync:v3.3.2,done
-k8s.gcr.io/git-sync/git-sync:v3.3.4,cloudnativek8s/k8s-git-sync:v3.3.4,done
-skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,cloudnativek8s/datastax-dse-server-ro:6.8.9-ubi7-b4,done
+skhatri/aws-cli-tar:0.2,cloudnativek8s/aws-cli:0.7,done
+skhatri/k8s-git-sync:v3.1.0,cloudnativek8s/k8s-git-sync:v3.1.0,ready
+k8s.gcr.io/git-sync/git-sync:v3.3.2,cloudnativek8s/k8s-git-sync:v3.3.2,ready
+k8s.gcr.io/git-sync/git-sync:v3.3.4,cloudnativek8s/k8s-git-sync:v3.3.4,ready
+skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,cloudnativek8s/datastax-dse-server-ro:6.8.9-ubi7-b4,ready
 
-travix/vault-exporter:1.1.2,cloudnativek8s/vault-exporter:1.1.2,done
+travix/vault-exporter:1.1.2,cloudnativek8s/vault-exporter:1.1.2,ready
 
-realworld/telnet:latest,cloudnativek8s/telnet:latest,done
-realworld/telnet:latest,cloudnativek8s/telnet:1.0.0,done
+realworld/telnet:latest,cloudnativek8s/telnet:latest,ready
+realworld/telnet:latest,cloudnativek8s/telnet:1.0.0,ready
 
-skhatri/trino-client:352,cloudnativek8s/trino-client:352,done
-trinodb/trino:352,cloudnativek8s/trino:352,done
-trinodb/trino:362,cloudnativek8s/trino:362,done
-amancevice/superset:0.36.0,cloudnativek8s/superset:0.36.0,done
+skhatri/trino-client:352,cloudnativek8s/trino-client:352,ready
+trinodb/trino:352,cloudnativek8s/trino:352,ready
+trinodb/trino:362,cloudnativek8s/trino:362,ready
+amancevice/superset:0.36.0,cloudnativek8s/superset:0.36.0,ready
 
-curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,done
+curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,ready
 
-kiwigrid/k8s-sidecar:1.1.0,cloudnativek8s/k8s-sidecar:1.1.0,done
+kiwigrid/k8s-sidecar:1.1.0,cloudnativek8s/k8s-sidecar:1.1.0,ready
 
 
 
