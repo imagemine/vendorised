@@ -51,6 +51,7 @@ kubesailmaker/jupyter-dev:latest,cloudnativek8s/jupyter-dev:latest,done
 kubesailmaker/k8s-read:0.7,cloudnativek8s/k8s-read:0.7,done
 kubesailmaker/microservices-java-alpine:1.0.9,cloudnativek8s/microservices-java-alpine:1.0.9,done
 imagemine/microservices-java-alpine:v1.0.1,cloudnativek8s/microservices-java-alpine:v1.0.1,done
+imagemine/microservices-java-alpine:v1.0.2,cloudnativek8s/microservices-java-alpine:v1.0.2,ready
 imagemine/eks-deployer:v1.0.0,cloudnativek8s/eks-deployer:v1.0.0,done
 imagemine/curl:v1.0.0,cloudnativek8s/curl:v1.0.0,done
 imagemine/airflow:v2.0.1-2.1.2-python3.8,cloudnativek8s/airflow:v2.0.1-2.1.2-python3.8,done
