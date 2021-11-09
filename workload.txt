@@ -109,4 +109,5 @@ jboss/keycloak:11.0.2,cloudnativek8s/keycloak:11.0.2
 
 camunda/camunda-bpm-platform:7.16.0,cloudnativek8s/camunda-bpm-platform:7.16.0
 
-testcontainersofficial/ryuk:0.3.3,cloudnativek8s/ryuk:0.3.3,ready
+testcontainersofficial/ryuk:0.3.3,cloudnativek8s/ryuk:0.3.3
+datagrip/hsqldb:2.3.4,cloudnativek8s/hsqldb:2.3.4,ready
