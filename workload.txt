@@ -112,4 +112,7 @@ camunda/camunda-bpm-platform:7.16.0,cloudnativek8s/camunda-bpm-platform:7.16.0
 testcontainersofficial/ryuk:0.3.3,cloudnativek8s/ryuk:0.3.3
 datagrip/hsqldb:2.3.4,cloudnativek8s/hsqldb:2.3.4
 
-cypress/included:9.0.0,cloudnativek8s/cypress-included:9.0.0,ready
+cypress/included:9.0.0,cloudnativek8s/cypress-included:9.0.0
+
+flyway/flyway:8.0.5-alpine,cloudnativek8s/flyway:8.0.5-alpine,ready
+
