@@ -114,5 +114,6 @@ datagrip/hsqldb:2.3.4,cloudnativek8s/hsqldb:2.3.4
 
 cypress/included:9.0.0,cloudnativek8s/cypress-included:9.0.0
 
-flyway/flyway:8.0.5-alpine,cloudnativek8s/flyway:8.0.5-alpine,ready
+flyway/flyway:8.0.5-alpine,cloudnativek8s/flyway:8.0.5-alpine
+kong/kong-gateway:2.6.0.1-alpine,cloudnativek8s/kong-gateway:2.6.0.1-alpine,ready
 
