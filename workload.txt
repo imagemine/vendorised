@@ -1,4 +1,7 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
+
+gcr.io/distroless/java-debian11:11,cloudnativek8s/distroless-java-debian11:11,ready
+
 jekyll/builder:4.1.0,cloudnativek8s/jekyll-builder:4.1.0,done
 imagemine/spark:3.1.1,cloudnativek8s/spark:3.1.1,done
 imagemine/spark:3.1.2,cloudnativek8s/spark:3.1.2,done
@@ -115,5 +118,5 @@ datagrip/hsqldb:2.3.4,cloudnativek8s/hsqldb:2.3.4
 cypress/included:9.0.0,cloudnativek8s/cypress-included:9.0.0
 
 flyway/flyway:8.0.5-alpine,cloudnativek8s/flyway:8.0.5-alpine
-kong/kong-gateway:2.6.0.1-alpine,cloudnativek8s/kong-gateway:2.6.0.1-alpine,ready
+kong/kong-gateway:2.6.0.1-alpine,cloudnativek8s/kong-gateway:2.6.0.1-alpine,done
 
