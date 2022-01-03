@@ -1,6 +1,7 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 
-logstash:7.16.2,cloudnativek8s/logstash:7.16.2,ready
+logstash:7.16.2,cloudnativek8s/logstash:7.16.2,done
+logstash:6.8.22,cloudnativek8s/logstash:6.8.22,ready
 
 nginx:1.21.4-alpine,cloudnativek8s/nginx:1.21.4-alpine,done
 
