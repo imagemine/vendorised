@@ -126,15 +126,16 @@ kong/kong-gateway:2.6.0.1-alpine,cloudnativek8s/kong-gateway:2.6.0.1-alpine,done
 
 
 goharbor/chartmuseum-photon:v2.4.1,cloudnativek8s/chartmuseum-photon:v2.4.1,ready
+goharbor/harbor-core:v2.4.1,cloudnativek8s/harbor-core:v2.4.1,ready
 goharbor/harbor-jobservice:v2.4.1,goharbor/harbor-jobservice:v2.4.1,ready
-goharbor/notary-server-photon:v2.4.1,cloudnativek8s/goharbor/notary-server-photon:v2.4.1,ready
-goharbor/notary-signer-photon:v2.4.1,cloudnativek8s/goharbor/notary-signer-photon:v2.4.1,ready
-goharbor/harbor-portal:v2.4.1,cloudnativek8s/goharbor/harbor-portal:v2.4.1,ready
-goharbor/registry-photon:v2.4.1,cloudnativek8s/goharbor/registry-photon:v2.4.1,ready
-goharbor/harbor-registryctl:v2.4.1,cloudnativek8s/goharbor/harbor-registryctl:v2.4.1,ready
-goharbor/harbor-db:v2.4.1,cloudnativek8s/goharbor/harbor-db:v2.4.1,ready
-goharbor/redis-photon:v2.4.1,cloudnativek8s/goharbor/redis-photon:v2.4.1,ready
-goharbor/trivy-adapter-photon:v2.4.1,cloudnativek8s/goharbor/trivy-adapter-photon:v2.4.1,ready
+goharbor/notary-server-photon:v2.4.1,cloudnativek8s/notary-server-photon:v2.4.1,ready
+goharbor/notary-signer-photon:v2.4.1,cloudnativek8s/notary-signer-photon:v2.4.1,ready
+goharbor/harbor-portal:v2.4.1,cloudnativek8s/harbor-portal:v2.4.1,ready
+goharbor/registry-photon:v2.4.1,cloudnativek8s/registry-photon:v2.4.1,ready
+goharbor/harbor-registryctl:v2.4.1,cloudnativek8s/harbor-registryctl:v2.4.1,ready
+goharbor/harbor-db:v2.4.1,cloudnativek8s/harbor-db:v2.4.1,ready
+goharbor/redis-photon:v2.4.1,cloudnativek8s/redis-photon:v2.4.1,ready
+goharbor/trivy-adapter-photon:v2.4.1,cloudnativek8s/trivy-adapter-photon:v2.4.1,ready
 
 
 
