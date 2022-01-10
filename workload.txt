@@ -127,7 +127,7 @@ kong/kong-gateway:2.6.0.1-alpine,cloudnativek8s/kong-gateway:2.6.0.1-alpine,done
 
 goharbor/chartmuseum-photon:v2.4.1,cloudnativek8s/chartmuseum-photon:v2.4.1,ready
 goharbor/harbor-core:v2.4.1,cloudnativek8s/harbor-core:v2.4.1,ready
-goharbor/harbor-jobservice:v2.4.1,goharbor/harbor-jobservice:v2.4.1,ready
+goharbor/harbor-jobservice:v2.4.1,cloudnativek8s/harbor-jobservice:v2.4.1,ready
 goharbor/notary-server-photon:v2.4.1,cloudnativek8s/notary-server-photon:v2.4.1,ready
 goharbor/notary-signer-photon:v2.4.1,cloudnativek8s/notary-signer-photon:v2.4.1,ready
 goharbor/harbor-portal:v2.4.1,cloudnativek8s/harbor-portal:v2.4.1,ready
