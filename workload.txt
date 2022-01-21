@@ -3,7 +3,7 @@
 logstash:7.16.2,cloudnativek8s/logstash:7.16.2,done
 logstash:6.8.22,cloudnativek8s/logstash:6.8.22,done
 
-nginx:1.21.4-alpine,cloudnativek8s/nginx:1.21.4-alpine,done
+nginx:1.21.5-alpine,cloudnativek8s/nginx:1.21.5-alpine,ready
 
 gcr.io/distroless/java-debian11:11,cloudnativek8s/distroless-java-debian11:11,done
 jekyll/builder:4.1.0,cloudnativek8s/jekyll-builder:4.1.0,done
@@ -136,7 +136,7 @@ goharbor/harbor-registryctl:v2.4.1,cloudnativek8s/harbor-registryctl:v2.4.1,done
 goharbor/harbor-db:v2.4.1,cloudnativek8s/harbor-db:v2.4.1,done
 goharbor/redis-photon:v2.4.1,cloudnativek8s/redis-photon:v2.4.1,done
 goharbor/trivy-adapter-photon:v2.4.1,cloudnativek8s/trivy-adapter-photon:v2.4.1,done
-goharbor/nginx-photon:v2.4.1,cloudnativek8s/nginx-photon:v2.4.1,ready
-goharbor/harbor-exporter:v2.4.1,cloudnativek8s/harbor-exporter:v2.4.1,ready
+goharbor/nginx-photon:v2.4.1,cloudnativek8s/nginx-photon:v2.4.1,done
+goharbor/harbor-exporter:v2.4.1,cloudnativek8s/harbor-exporter:v2.4.1,done
 
 
