@@ -1,5 +1,7 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 
+node:slim,cloudnativek8s/node:slim,ready
+
 logstash:7.16.2,cloudnativek8s/logstash:7.16.2,done
 logstash:6.8.22,cloudnativek8s/logstash:6.8.22,done
 
