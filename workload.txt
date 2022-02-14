@@ -113,7 +113,7 @@ datastax/cass-operator:1.6.0-ubi,cloudnativek8s/datastax-cass-operator:1.6.0-ubi
 datastax/dse-server:6.8.9-ubi7,cloudnativek8s/datastax-dse-server:6.8.9-ubi7
 
 keycloak/keycloak-gatekeeper:7.0.0,cloudnativek8s/keycloak-gatekeeper:7.0.0
-jboss/keycloak:16.1.0,cloudnativek8s/keycloak:16.1.0,ready
+jboss/keycloak:16.1.0,cloudnativek8s/keycloak:16.1.0,done
 jboss/keycloak:11.0.2,cloudnativek8s/keycloak:11.0.2
 
 camunda/camunda-bpm-platform:7.16.0,cloudnativek8s/camunda-bpm-platform:7.16.0
@@ -124,7 +124,7 @@ datagrip/hsqldb:2.3.4,cloudnativek8s/hsqldb:2.3.4
 cypress/included:9.0.0,cloudnativek8s/cypress-included:9.0.0
 
 flyway/flyway:8.0.5-alpine,cloudnativek8s/flyway:8.0.5-alpine
-kong/kong-gateway:2.6.0.1-alpine,cloudnativek8s/kong-gateway:2.6.0.1-alpine,done
+kong/kong-gateway:2.6.0.4-alpine,cloudnativek8s/kong-gateway:2.6.0.4-alpine,ready
 
 
 goharbor/chartmuseum-photon:v2.4.1,cloudnativek8s/chartmuseum-photon:v2.4.1,done
