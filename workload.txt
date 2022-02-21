@@ -67,6 +67,7 @@ imagemine/airflow:v2.0.1-2.1.2-python3.8,cloudnativek8s/airflow:v2.0.1-2.1.2-pyt
 
 typeboot/executor:0.8,cloudnativek8s/typeboot-executor:0.8,done
 typeboot/executor:0.2,cloudnativek8s/typeboot-executor:0.2,done
+typeboot/executor:v1.0.0,cloudnativek8s/typeboot-executor:v1.0.0,ready
 public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-0,cloudnativek8s/sumologic-kubernetes-fluentd:1.12.2-sumo-0,done
 public.ecr.aws/sumologic/kubernetes-fluentd:1.12.2-sumo-4,cloudnativek8s/sumologic-kubernetes-fluentd:1.12.2-sumo-4,done
 
@@ -124,7 +125,7 @@ datagrip/hsqldb:2.3.4,cloudnativek8s/hsqldb:2.3.4
 cypress/included:9.0.0,cloudnativek8s/cypress-included:9.0.0
 
 flyway/flyway:8.0.5-alpine,cloudnativek8s/flyway:8.0.5-alpine
-kong/kong-gateway:2.6.0.4-alpine,cloudnativek8s/kong-gateway:2.6.0.4-alpine,ready
+kong/kong-gateway:2.6.0.4-alpine,cloudnativek8s/kong-gateway:2.6.0.4-alpine,done
 
 
 goharbor/chartmuseum-photon:v2.4.1,cloudnativek8s/chartmuseum-photon:v2.4.1,done
