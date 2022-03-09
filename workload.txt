@@ -1,7 +1,7 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 
-
-pflookyy/envoy:v1.21.1,cloudnativek8s/envoy:v1.21.1,ready
+pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,ready
+pflookyy/envoy:v1.21.1-b1,cloudnativek8s/envoy:v1.21.1-b1,done
 node:slim,cloudnativek8s/node:slim,done
 
 typeboot/executor:v1.0.2,cloudnativek8s/typeboot-executor:v1.0.2,done
