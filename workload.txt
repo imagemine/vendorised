@@ -1,8 +1,9 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 
+pflookyy/envoy:v1.21.1,cloudnativek8s/envoy:v1.21.1,ready
 node:slim,cloudnativek8s/node:slim,done
 
-typeboot/executor:v1.0.2,cloudnativek8s/typeboot-executor:v1.0.2,ready
+typeboot/executor:v1.0.2,cloudnativek8s/typeboot-executor:v1.0.2,done
 logstash:7.16.2,cloudnativek8s/logstash:7.16.2,done
 logstash:6.8.22,cloudnativek8s/logstash:6.8.22,done
 
