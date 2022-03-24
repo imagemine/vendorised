@@ -3,7 +3,7 @@
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
 pflookyy/envoy:v1.21.1-b5,cloudnativek8s/envoy:v1.21.1-b5,done
 node:slim,cloudnativek8s/node:slim,done
-skhatri/k8s-read:v1.0.2,cloudnativek8s/k8s-read:v1.0.2,ready
+skhatri/k8s-read:v1.0.3,cloudnativek8s/k8s-read:v1.0.3,ready
 
 typeboot/executor:v1.0.2,cloudnativek8s/typeboot-executor:v1.0.2,done
 logstash:7.16.2,cloudnativek8s/logstash:7.16.2,done
