@@ -1,8 +1,8 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 
-arangodb:3.8.6,cloudnativek8s/arangodb:3.8.6,create
-pflookyy/spline-rest-server:0.7.6,cloudnativek8s/spline-rest-server:0.7.6,create
-absaoss/spline-web-ui:0.7.4,cloudnativek8s/spline-web-ui:0.7.4,create
+arangodb:3.8.6,cloudnativek8s/arangodb:3.8.6,ready
+pflookyy/spline-rest-server:0.7.6,cloudnativek8s/spline-rest-server:0.7.6,ready
+absaoss/spline-web-ui:0.7.4,cloudnativek8s/spline-web-ui:0.7.4,ready
 
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
