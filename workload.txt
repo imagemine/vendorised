@@ -1,7 +1,8 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 
-marquezproject/marquez:0.21.0,cloudnativek8s/marquez:0.21.0,ready
-marquezproject/marquez-web:0.21.0,cloudnativek8s/marquez-web:0.21.0,ready
+marquezproject/marquez:0.21.0,cloudnativek8s/marquez:0.21.0,done
+marquezproject/marquez-web:0.21.0,cloudnativek8s/marquez-web:0.21.0,done
+postgres,cloudnativek8s/postgres:12.1,ready
 
 arangodb:3.8.6,cloudnativek8s/arangodb:3.8.6,done
 pflookyy/spline-rest-server:0.7.6.1,cloudnativek8s/spline-rest-server:0.7.6.1,done
