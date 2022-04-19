@@ -1,8 +1,14 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 
+neo4j:3.5.26,cloudnativek8s/neo4j:3.5.26,ready
+elasticsearch:8.0.0,cloudnativek8s/elasticsearch:8.0.0,ready
+amundsendev/amundsen-search:2.11.1,cloudnativek8s/amundsen-search:2.11.1,ready
+amundsendev/amundsen-metadata:3.9.0,cloudnativek8s/amundsen-metadata:3.9.0,ready
+amundsendev/amundsen-frontend:3.12.0,cloudnativek8s/amundsen-frontend:3.12.0,ready
+
 marquezproject/marquez:0.21.0,cloudnativek8s/marquez:0.21.0,done
 marquezproject/marquez-web:0.21.0,cloudnativek8s/marquez-web:0.21.0,done
-postgres,cloudnativek8s/postgres:12.1,ready
+postgres,cloudnativek8s/postgres:12.1,done
 
 arangodb:3.8.6,cloudnativek8s/arangodb:3.8.6,done
 pflookyy/spline-rest-server:0.7.6.1,cloudnativek8s/spline-rest-server:0.7.6.1,done
