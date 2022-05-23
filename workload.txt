@@ -1,6 +1,6 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 
-quay.io/oauth2-proxy/oauth2-proxy:v7.2.0,cloudnativek8s/oauth2-proxy:v7.2.0,ready
+quay.io/oauth2-proxy/oauth2-proxy:v7.2.0,cloudnativek8s/oauth2-proxy:v7.2.0,done
 neo4j:3.5.26,cloudnativek8s/neo4j:3.5.26,done
 elasticsearch:8.0.0,cloudnativek8s/elasticsearch:8.0.0,done
 amundsendev/amundsen-search:2.11.1,cloudnativek8s/amundsen-search:2.11.1,done
@@ -17,7 +17,7 @@ absaoss/spline-web-ui:0.7.4,cloudnativek8s/spline-web-ui:0.7.4,done
 
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
-pflookyy/envoy:v1.21.1-b5,cloudnativek8s/envoy:v1.21.1-b5,done
+pflookyy/envoy:v1.21.2,cloudnativek8s/envoy:v1.21.2,ready
 node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
