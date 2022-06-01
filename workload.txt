@@ -104,6 +104,8 @@ realworld/telnet:latest,cloudnativek8s/telnet:1.0.0,done
 skhatri/trino-client:352,cloudnativek8s/trino-client:352,done
 trinodb/trino:352,cloudnativek8s/trino:352,done
 trinodb/trino:362,cloudnativek8s/trino:362,done
+trinodb/trino:382,cloudnativek8s/trino:382,ready
+
 amancevice/superset:1.4.1,cloudnativek8s/superset:1.4.1,done
 
 curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,done
