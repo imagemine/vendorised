@@ -17,7 +17,7 @@ absaoss/spline-web-ui:0.7.4,cloudnativek8s/spline-web-ui:0.7.4,done
 
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
-pflookyy/envoy:v1.21.2,cloudnativek8s/envoy:v1.21.2,ready
+pflookyy/envoy:v1.21.2,cloudnativek8s/envoy:v1.21.2,done
 node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
@@ -104,7 +104,7 @@ realworld/telnet:latest,cloudnativek8s/telnet:1.0.0,done
 skhatri/trino-client:352,cloudnativek8s/trino-client:352,done
 trinodb/trino:352,cloudnativek8s/trino:352,done
 trinodb/trino:362,cloudnativek8s/trino:362,done
-trinodb/trino:382,cloudnativek8s/trino:382,ready
+trinodb/trino:382,cloudnativek8s/trino:382,done
 amancevice/superset:1.4.1,cloudnativek8s/superset:1.4.1,done
 
 curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,done
@@ -162,4 +162,4 @@ goharbor/trivy-adapter-photon:v2.4.1,cloudnativek8s/trivy-adapter-photon:v2.4.1,
 goharbor/nginx-photon:v2.4.1,cloudnativek8s/nginx-photon:v2.4.1,done
 goharbor/harbor-exporter:v2.4.1,cloudnativek8s/harbor-exporter:v2.4.1,done
 
-
+python:3.8-slim,cloudnativek8s/python:3.8-slim,ready
