@@ -15,6 +15,8 @@ arangodb:3.8.6,cloudnativek8s/arangodb:3.8.6,done
 pflookyy/spline-rest-server:0.7.6.1,cloudnativek8s/spline-rest-server:0.7.6.1,done
 absaoss/spline-web-ui:0.7.4,cloudnativek8s/spline-web-ui:0.7.4,done
 
+skhatri/gpg:0.7.6,cloudnativek8s/gpg:0.7.6,ready
+
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
 pflookyy/envoy:v1.21.2,cloudnativek8s/envoy:v1.21.2,done
