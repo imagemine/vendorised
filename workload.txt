@@ -15,7 +15,7 @@ arangodb:3.8.6,cloudnativek8s/arangodb:3.8.6,done
 pflookyy/spline-rest-server:0.7.6.1,cloudnativek8s/spline-rest-server:0.7.6.1,done
 absaoss/spline-web-ui:0.7.4,cloudnativek8s/spline-web-ui:0.7.4,done
 
-skhatri/gpg:0.7.6,cloudnativek8s/gpg:0.7.6,ready
+skhatri/gpg:0.7.6,cloudnativek8s/gpg:0.7.6,done
 
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
@@ -108,6 +108,7 @@ trinodb/trino:352,cloudnativek8s/trino:352,done
 trinodb/trino:362,cloudnativek8s/trino:362,done
 trinodb/trino:382,cloudnativek8s/trino:382,done
 amancevice/superset:1.4.1,cloudnativek8s/superset:1.4.1,done
+amancevice/superset:1.5.1,cloudnativek8s/superset:1.5.1,ready
 
 curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,done
 
@@ -164,4 +165,4 @@ goharbor/trivy-adapter-photon:v2.4.1,cloudnativek8s/trivy-adapter-photon:v2.4.1,
 goharbor/nginx-photon:v2.4.1,cloudnativek8s/nginx-photon:v2.4.1,done
 goharbor/harbor-exporter:v2.4.1,cloudnativek8s/harbor-exporter:v2.4.1,done
 
-python:3.8-slim,cloudnativek8s/python:3.8-slim,ready
+python:3.8-slim,cloudnativek8s/python:3.8-slim,done
