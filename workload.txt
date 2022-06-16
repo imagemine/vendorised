@@ -96,6 +96,7 @@ skhatri/aws-cli-tar:0.2,cloudnativek8s/aws-cli:0.7,done
 skhatri/k8s-git-sync:v3.1.0,cloudnativek8s/k8s-git-sync:v3.1.0,done
 k8s.gcr.io/git-sync/git-sync:v3.3.2,cloudnativek8s/k8s-git-sync:v3.3.2,done
 k8s.gcr.io/git-sync/git-sync:v3.3.4,cloudnativek8s/k8s-git-sync:v3.3.4,done
+k8s.gcr.io/git-sync/git-sync:v3.5.0,cloudnativek8s/k8s-git-sync:v3.5.0,ready
 skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,cloudnativek8s/datastax-dse-server-ro:6.8.9-ubi7-b4,done
 
 travix/vault-exporter:1.1.2,cloudnativek8s/vault-exporter:1.1.2,done
@@ -108,7 +109,7 @@ trinodb/trino:352,cloudnativek8s/trino:352,done
 trinodb/trino:362,cloudnativek8s/trino:362,done
 trinodb/trino:382,cloudnativek8s/trino:382,done
 amancevice/superset:1.4.1,cloudnativek8s/superset:1.4.1,done
-amancevice/superset:1.5.1,cloudnativek8s/superset:1.5.1,ready
+amancevice/superset:1.5.1,cloudnativek8s/superset:1.5.1,done
 
 curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,done
 
