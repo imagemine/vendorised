@@ -19,7 +19,7 @@ skhatri/gpg:0.7.6,cloudnativek8s/gpg:0.7.6,done
 
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
-pflookyy/envoy:v1.21.2,cloudnativek8s/envoy:v1.21.2,done
+pflookyy/envoy:v1.21.4,cloudnativek8s/envoy:v1.21.4,ready
 node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
@@ -96,7 +96,7 @@ skhatri/aws-cli-tar:0.2,cloudnativek8s/aws-cli:0.7,done
 skhatri/k8s-git-sync:v3.1.0,cloudnativek8s/k8s-git-sync:v3.1.0,done
 k8s.gcr.io/git-sync/git-sync:v3.3.2,cloudnativek8s/k8s-git-sync:v3.3.2,done
 k8s.gcr.io/git-sync/git-sync:v3.3.4,cloudnativek8s/k8s-git-sync:v3.3.4,done
-k8s.gcr.io/git-sync/git-sync:v3.5.0,cloudnativek8s/k8s-git-sync:v3.5.0,ready
+k8s.gcr.io/git-sync/git-sync:v3.5.0,cloudnativek8s/k8s-git-sync:v3.5.0,done
 skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,cloudnativek8s/datastax-dse-server-ro:6.8.9-ubi7-b4,done
 
 travix/vault-exporter:1.1.2,cloudnativek8s/vault-exporter:1.1.2,done
