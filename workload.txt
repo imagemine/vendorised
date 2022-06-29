@@ -19,7 +19,7 @@ skhatri/gpg:0.7.6,cloudnativek8s/gpg:0.7.6,done
 
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
-pflookyy/envoy:v1.21.4,cloudnativek8s/envoy:v1.21.4,ready
+pflookyy/envoy:v1.21.4,cloudnativek8s/envoy:v1.21.4,done
 node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
@@ -48,6 +48,7 @@ typeboot/typeboot-spec:0.4,cloudnativek8s/typeboot-spec:0.4,done
 sujanks/opa:0.31.0,cloudnativek8s/opa:0.31.0,done
 anantagarwal/opa:0.31.2,cloudnativek8s/opa:0.31.2,done
 skhatri/opa:0.19.4,cloudnativek8s/opa:0.19.4,done
+openpolicyagent/opa:0.41.0,cloudnativek8s/opa:0.41.0,ready
 redis:5.0.7-alpine,cloudnativek8s/redis:5.0.7-alpine,done
 redis:5.0.7-alpine,cloudnativek8s/queue-server:5.0.7-alpine,done
 confluentinc/cp-zookeeper:6.2.0,cloudnativek8s/zookeeper:6.2.0,done
