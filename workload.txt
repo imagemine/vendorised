@@ -48,7 +48,8 @@ typeboot/typeboot-spec:0.4,cloudnativek8s/typeboot-spec:0.4,done
 sujanks/opa:0.31.0,cloudnativek8s/opa:0.31.0,done
 anantagarwal/opa:0.31.2,cloudnativek8s/opa:0.31.2,done
 skhatri/opa:0.19.4,cloudnativek8s/opa:0.19.4,done
-openpolicyagent/opa:0.41.0,cloudnativek8s/opa:0.41.0,ready
+openpolicyagent/opa:0.41.0,cloudnativek8s/opa:0.41.0,done
+openpolicyagent/opa:0.41.0-debug,cloudnativek8s/opa:0.41.0-debug,ready
 redis:5.0.7-alpine,cloudnativek8s/redis:5.0.7-alpine,done
 redis:5.0.7-alpine,cloudnativek8s/queue-server:5.0.7-alpine,done
 confluentinc/cp-zookeeper:6.2.0,cloudnativek8s/zookeeper:6.2.0,done
