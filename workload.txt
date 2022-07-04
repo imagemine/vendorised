@@ -27,7 +27,7 @@ typeboot/executor:v1.0.2,cloudnativek8s/typeboot-executor:v1.0.2,done
 logstash:7.16.2,cloudnativek8s/logstash:7.16.2,done
 logstash:6.8.22,cloudnativek8s/logstash:6.8.22,done
 
-nginx:1.21.6-alpine,cloudnativek8s/nginx:1.21.6-alpine,done
+nginx:1.22.0-alpine,cloudnativek8s/nginx:1.22.0-alpine,ready
 
 gcr.io/distroless/java-debian11:11,cloudnativek8s/distroless-java-debian11:11,done
 jekyll/builder:4.1.0,cloudnativek8s/jekyll-builder:4.1.0,done
@@ -49,7 +49,7 @@ sujanks/opa:0.31.0,cloudnativek8s/opa:0.31.0,done
 anantagarwal/opa:0.31.2,cloudnativek8s/opa:0.31.2,done
 skhatri/opa:0.19.4,cloudnativek8s/opa:0.19.4,done
 openpolicyagent/opa:0.41.0,cloudnativek8s/opa:0.41.0,done
-openpolicyagent/opa:0.41.0-debug,cloudnativek8s/opa:0.41.0-debug,ready
+openpolicyagent/opa:0.41.0-debug,cloudnativek8s/opa:0.41.0-debug,done
 redis:5.0.7-alpine,cloudnativek8s/redis:5.0.7-alpine,done
 redis:5.0.7-alpine,cloudnativek8s/queue-server:5.0.7-alpine,done
 confluentinc/cp-zookeeper:6.2.0,cloudnativek8s/zookeeper:6.2.0,done
