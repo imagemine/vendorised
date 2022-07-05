@@ -2,4 +2,7 @@
 # Format: {source_image}:{tag}[@{optional_sha256_digest}],{target_image_without_tag}
 # Target image tag will be the same as source image tag
 
-
+node:16.15.0-alpine,cloudnativek8s/node
+nginx:1.22.0-alpine,cloudnativek8s/nginx
+openpolicyagent/opa:0.41.0,cloudnativek8s/opa
+openpolicyagent/opa:0.41.0-debug,cloudnativek8s/opa
