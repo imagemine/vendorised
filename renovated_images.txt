@@ -1,5 +1,5 @@
 # The versions in this file are maintained by renovate bot
-# Format: {source_image}:{tag}@{sha256_digest}],{target_image_without_tag}
+# Format: {source_image}:{tag}@{sha256_digest},{target_image_without_tag}
 # Target image tag will be the same as source image tag
 
 node:16.15.0-alpine@sha256:bb776153f81d6e931211e3cadd7eef92c811e7086993b685d1f40242d486b9bb,cloudnativek8s/node
