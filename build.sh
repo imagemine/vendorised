@@ -39,11 +39,11 @@ tag_and_push() {
   if [[ "${target}" != *":"* ]]; then
     target="${target}:$(cut -d: -f2 <<< "$source" | cut -d@ -f1)"
   fi
-  # docker pull "${source}"
+  docker pull "${source}"
   echo "tagging ${source} as ${target}"
-  # docker tag "${source}" "${target}"
+  docker tag "${source}" "${target}"
   echo "pushing ${target}"
-  # docker push "${target}"
+  docker push "${target}"
 }
 
 get_tag
