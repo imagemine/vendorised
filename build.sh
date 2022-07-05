@@ -6,7 +6,7 @@ current_hash=$(git log --pretty=format:'%h' --max-count=1)
 current_branch=$(git branch --show-current|sed 's#/#_#')
 
 version=""
-compare_to="HEAD~1"
+compare_from="HEAD~1"
 
 get_tag() {
   if [[ ${current_branch} == "main" ]]; then
@@ -19,7 +19,7 @@ get_tag() {
         latest_version=$(git describe --tags "${commit_hash}" 2>/dev/null)
       fi
       if [[ ${latest_version} =~ ^v+ ]]; then 
-        compare_to=${latest_version}
+        compare_from=${latest_version}
         read -r a b c <<< "${latest_version//./ }"
         version="$a.$b.$((c+1))"
       else
@@ -48,13 +48,13 @@ tag_and_push() {
 
 get_tag
 
-changed_files=$(git diff --name-only HEAD "${compare_to}")
-echo "Files changed from HEAD to ${compare_to}:"
+changed_files=$(git diff --name-only "${compare_from}" HEAD)
+echo "Files changed from ${compare_from} to HEAD:"
 echo "${changed_files}"
 
 # Renovated images changed - build changed ones
 if grep -q "^renovated_images.txt$" <<< "$changed_files"; then
-  git diff -w HEAD "${compare_to}" renovated_images.txt | grep "^+[^+]" | cut -c2- | grep -v "^#" | while IFS= read -r item; do
+  git diff -w "${compare_from}" HEAD renovated_images.txt | grep "^+[^+]" | cut -c2- | grep -v "^#" | while IFS= read -r item; do
     tag_and_push "$item"
   done
 fi
