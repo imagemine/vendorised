@@ -20,7 +20,7 @@ get_tag() {
       fi
       if [[ ${latest_version} =~ ^v+ ]]; then 
         compare_to=${latest_version}
-        read -r a b c <<< "${version//./ }"
+        read -r a b c <<< "${latest_version//./ }"
         version="$a.$b.$((c+1))"
       else
         version="v1.0.0"
