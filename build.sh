@@ -66,6 +66,12 @@ fi
 # Tag with the new version
 if [[ -n ${version} ]]; then
   now=$(date '+%Y-%m-%dT%H:%M:%S%z')
+
+  # shellcheck source=/dev/null
+  source project.properties
+  git config --global user.email "${email:?}"
+  git config --global user.name "${name:?}"
+
   git tag -m "{\"author\":\"ci\", \"branch\":\"$current_branch\", \"hash\": \"${current_hash}\", \"version\":\"${version}\",  \"build_date\":\"${now}\"}"  ${version}
   git push --tags
 fi

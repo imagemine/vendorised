@@ -1,2 +1,2 @@
 # The versions in this file are maintained by renovate bot
-postgres,cloudnativek8s/postgres:12.1
+postgres,cloudnativek8s/postgres:12.2
