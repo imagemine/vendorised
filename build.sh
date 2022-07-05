@@ -36,6 +36,9 @@ tag_and_push() {
   local image_line=$1
 
   read -r source target <<< "$(echo "$image_line"|cut -d, -s -f1,2 --output-delimiter=' ')"
+  if [[ "${target}" != *":"* ]]; then
+    target="${target}:$(cut -d: -f2 <<< "$source")"
+  fi
   # docker pull "${source}"
   echo "tagging ${source} as ${target}"
   # docker tag "${source}" "${target}"
