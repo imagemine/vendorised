@@ -51,7 +51,7 @@ echo "${changed_files}"
 
 # Renovated images changed - build changed ones
 if grep -q "^renovated_images.txt$" <<< "$changed_files"; then
-  git diff -w HEAD "${compare_to}" renovated_images.txt | grep "^+[^+]" | cut -c2- | while IFS= read -r item; do
+  git diff -w HEAD "${compare_to}" renovated_images.txt | grep "^+[^+]" | cut -c2- | grep -v "^#" | while IFS= read -r item; do
     tag_and_push "$item"
   done
 fi
