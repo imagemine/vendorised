@@ -6,3 +6,5 @@ node:16.15.0-alpine@sha256:bb776153f81d6e931211e3cadd7eef92c811e7086993b685d1f40
 nginx:1.22.0-alpine@sha256:c90af9c78715f71ade64037ca54d3a0c0b6814362594b13643d03c5110085375,cloudnativek8s/nginx
 openpolicyagent/opa:0.41.0@sha256:c34704b307b3114f4c5d743c17b04fc663154245c7e8668eb9dcd49f2b00ca05,cloudnativek8s/opa
 openpolicyagent/opa:0.41.0-debug@sha256:594752f9e6993e3a3f91c615afc7522342d791b9ce5fed5596bf0f8e7ba0f2ce,cloudnativek8s/opa
+golang:1.18.4@sha256:ea3d912d500b1ae0a691b2e53eb8a6345b579d42d7e6a64acca83d274b949740,cloudnativek8s/golang
+alpine:3.16.0@sha256:4ff3ca91275773af45cb4b0834e12b7eb47d1c18f770a0b151381cd227f4c253,cloudnativek8s/alpine
