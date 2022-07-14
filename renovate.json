@@ -28,8 +28,8 @@
         "patch",
         "digest"
       ],
-      "groupName": "all non-major image updates",
-      "groupSlug": "all-non-major"
+      "groupName": "images (non-major)",
+      "groupSlug": "images-non-major"
     }
   ]
 }
