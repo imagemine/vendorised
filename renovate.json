@@ -15,7 +15,7 @@
         "^renovated_images.txt$"
       ],
       "matchStrings": [
-        "(?<depName>.*?):(?<currentValue>.*?)@?(?<currentDigest>sha256:[a-f0-9]+)?,.*"
+        "^(?<depName>[^#\n]+?):(?<currentValue>.*?)@?(?<currentDigest>sha256:[a-f0-9]+)?,.*$"
       ],
       "datasourceTemplate": "docker"
     }
