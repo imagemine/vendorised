@@ -19,5 +19,17 @@
       ],
       "datasourceTemplate": "docker"
     }
+  ],
+  "packageRules": [
+    {
+      "matchFiles": ["renovated_images.txt"],
+      "matchUpdateTypes": [
+        "minor",
+        "patch",
+        "digest"
+      ],
+      "groupName": "all non-major image updates",
+      "groupSlug": "all-non-major"
+    }
   ]
 }
