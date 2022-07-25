@@ -113,7 +113,7 @@ trinodb/trino:362,cloudnativek8s/trino:362,done
 trinodb/trino:382,cloudnativek8s/trino:382,done
 amancevice/superset:1.4.1,cloudnativek8s/superset:1.4.1,done
 amancevice/superset:1.5.1,cloudnativek8s/superset:1.5.1,done
-amancevice/superset:2.0.0,cloudnativek8s/superset:2.0.0,ready
+amancevice/superset:2.0.0,cloudnativek8s/superset:2.0.0,done
 
 curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,done
 
