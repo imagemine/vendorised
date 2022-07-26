@@ -3,10 +3,10 @@
 # Target image tag will be the same as source image tag
 
 node:16.16.0-alpine@sha256:da32af0cf608622b1550678b2552b7d997def7d0ada00e0eca0166ed2ea42186,cloudnativek8s/node
-nginx:1.23.0-alpine@sha256:4a846cc240449c53c8ae24269ba6bcaee5167d8ad75cd2a8d8ba422b7c726979,cloudnativek8s/nginx
+nginx:1.23.1-alpine@sha256:87fb6f4040ffd52dd616f360b8520ed4482930ea75417182ad3f76c4aaadf24f,cloudnativek8s/nginx
 openpolicyagent/opa:0.42.2@sha256:c2f223cc76443be47d0746384cd8b006b68f91b89c9dc47a8b04431d71af9d0f,cloudnativek8s/opa
 openpolicyagent/opa:0.42.2-debug@sha256:8808c0b84666f048767b792906f57d04be09914e6b71322ad6adc4f690426abe,cloudnativek8s/opa
 golang:1.18.4@sha256:9349ed889adb906efa5ebc06485fe1b6a12fb265a01c9266a137bb1352565560,cloudnativek8s/golang
 alpine:3.16.1@sha256:7580ece7963bfa863801466c0a488f11c86f85d9988051a9f9c68cb27f6b7872,cloudnativek8s/alpine
-renovate/renovate:32.119.1@sha256:37e5186b91334cd15e390f1d5a0b73b1bbe5df5fac88e825a422cc97519e8fba,cloudnativek8s/renovate
+renovate/renovate:32.127.4@sha256:99df7da27adf02f97bd680688c55f5503de3deb2324b46c11bd398775bd61273,cloudnativek8s/renovate
 flyway/flyway:8.5.13-alpine@sha256:40a3a8728934362b14e81e8be9e472f3e49008a05ad0fef6ed8fc3fa48be6c87,cloudnativek8s/flyway
