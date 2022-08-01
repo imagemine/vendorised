@@ -9,4 +9,4 @@ openpolicyagent/opa:0.42.2-debug@sha256:8808c0b84666f048767b792906f57d04be09914e
 golang:1.18.4@sha256:9349ed889adb906efa5ebc06485fe1b6a12fb265a01c9266a137bb1352565560,cloudnativek8s/golang
 alpine:3.16.1@sha256:7580ece7963bfa863801466c0a488f11c86f85d9988051a9f9c68cb27f6b7872,cloudnativek8s/alpine
 renovate/renovate:32.127.4@sha256:99df7da27adf02f97bd680688c55f5503de3deb2324b46c11bd398775bd61273,cloudnativek8s/renovate
-flyway/flyway:8.5.13-alpine@sha256:40a3a8728934362b14e81e8be9e472f3e49008a05ad0fef6ed8fc3fa48be6c87,cloudnativek8s/flyway
+flyway/flyway:9.0.4-alpine@sha256:e56fea2b354c2afe89bc818f789e600f8b66706b24b60f0231c1ad85431d07e3,cloudnativek8s/flyway
