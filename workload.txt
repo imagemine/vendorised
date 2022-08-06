@@ -1,6 +1,6 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 
-envoyproxy/envoy-dev:1221cce68ae973fcdea38f27e6f017e492214e28,cloudnativek8s/envoy:v1.22.1,ready
+envoyproxy/envoy-dev:1221cce68ae973fcdea38f27e6f017e492214e28,cloudnativek8s/envoy:v1.22.1,done
 quay.io/oauth2-proxy/oauth2-proxy:v7.2.0,cloudnativek8s/oauth2-proxy:v7.2.0,done
 neo4j:3.5.26,cloudnativek8s/neo4j:3.5.26,done
 elasticsearch:8.0.0,cloudnativek8s/elasticsearch:8.0.0,done
@@ -172,3 +172,7 @@ goharbor/harbor-exporter:v2.4.1,cloudnativek8s/harbor-exporter:v2.4.1,done
 
 python:3.8-slim,cloudnativek8s/python:3.8-slim,done
 anantagarwal/kong-pongo-test:2.6.0,cloudnativek8s/kong-pongo-test:2.6.0,done
+
+imply/manager:2022.07,cloudnativek8s/imply-mamanger:2022.07,ready
+imply/agent:v11,cloudnativek8s/imply-agent:v11,ready
+zookeeper:3.5.9,cloudnativek8s/zookeeper:3.5.9,ready
