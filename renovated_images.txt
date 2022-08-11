@@ -2,11 +2,11 @@
 # Format: {source_image}:{tag}@{sha256_digest},{target_image_without_tag}
 # Target image tag will be the same as source image tag
 
-node:18.7.0-alpine@sha256:4c8f734f33b4c8bb41c3caf17c61e6828e45cdc39dcc3fd495d0fb3213b33cfe,cloudnativek8s/node
-nginx:1.23.1-alpine@sha256:044441a2f81e4cfc98c9d740c1b73ed7313dec240298161ec360e036c3ba218e,cloudnativek8s/nginx
+node:18.7.0-alpine@sha256:39eee9aa771257847d3d8bcb7f775439d0267197060053761b54021bcae6338e,cloudnativek8s/node
+nginx:1.23.1-alpine@sha256:082f8c10bd47b6acc8ef15ae61ae45dd8fde0e9f389a8b5cb23c37408642bf5d,cloudnativek8s/nginx
 openpolicyagent/opa:0.43.0@sha256:575296dd0151b2b4da75df32247e49deb7acfbfa2775369cc7ebd775f6772f35,cloudnativek8s/opa
 openpolicyagent/opa:0.43.0-debug@sha256:5f684be1b288d04397b46bb0093557d035162dade011dcd5021886bc759011bd,cloudnativek8s/opa
-golang:1.19.0@sha256:d72a2944621f0f4027983e094bdf9464d26459c17efe732320043b84c91e51e7,cloudnativek8s/golang
-alpine:3.16.1@sha256:7580ece7963bfa863801466c0a488f11c86f85d9988051a9f9c68cb27f6b7872,cloudnativek8s/alpine
-renovate/renovate:32.151.1@sha256:c7e8907d38c115ac926ca5233d113e291bec365bd5d896372aaf566ff57bddb9,cloudnativek8s/renovate
-flyway/flyway:9.1.2-alpine@sha256:e3eb81514c47b342b1b3f4361fef56e208fb8a9b42c7646980ab81221441e67e,cloudnativek8s/flyway
+golang:1.19.0@sha256:1860373709cc04bacfcf3bb1aaa8c14bb1243e971e9c4e70607ffa05f72466d6,cloudnativek8s/golang
+alpine:3.16.2@sha256:bc41182d7ef5ffc53a40b044e725193bc10142a1243f395ee852a8d9730fc2ad,cloudnativek8s/alpine
+renovate/renovate:32.154.7@sha256:76a9767072e346801bdf5b726d5d49a0629666291b0153d1bf6fa768ea797809,cloudnativek8s/renovate
+flyway/flyway:9.1.3-alpine@sha256:d5886a1d6e4ff2d70627bdfbfec226bc3c307b3d9afd5f3c5463b61f15fe21c8,cloudnativek8s/flyway
