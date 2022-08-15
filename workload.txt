@@ -111,7 +111,7 @@ skhatri/trino-client:352,cloudnativek8s/trino-client:352,done
 trinodb/trino:352,cloudnativek8s/trino:352,done
 trinodb/trino:362,cloudnativek8s/trino:362,done
 trinodb/trino:382,cloudnativek8s/trino:382,done
-trinodb/trino:392,cloudnativek8s/trino:392,ready
+trinodb/trino:392,cloudnativek8s/trino:392,done
 amancevice/superset:1.4.1,cloudnativek8s/superset:1.4.1,done
 amancevice/superset:1.5.1,cloudnativek8s/superset:1.5.1,done
 amancevice/superset:2.0.0,cloudnativek8s/superset:2.0.0,done
@@ -177,3 +177,5 @@ anantagarwal/kong-pongo-test:2.6.0,cloudnativek8s/kong-pongo-test:2.6.0,done
 imply/manager:2022.07,cloudnativek8s/imply-manager:2022.07,done
 imply/agent:v11,cloudnativek8s/imply-agent:v11,done
 zookeeper:3.5.9,cloudnativek8s/zookeeper:3.5.9,done
+
+quay.io/keycloak/keycloak:19.0.1,cloudnativek8s/quay-io-keycloak:19.0.1,ready
