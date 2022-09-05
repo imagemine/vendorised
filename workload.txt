@@ -179,3 +179,4 @@ imply/agent:v11,cloudnativek8s/imply-agent:v11,done
 zookeeper:3.5.9,cloudnativek8s/zookeeper:3.5.9,done
 
 quay.io/keycloak/keycloak:19.0.1,cloudnativek8s/quay-io-keycloak:19.0.1,done
+
