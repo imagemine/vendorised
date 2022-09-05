@@ -20,7 +20,7 @@ skhatri/gpg:0.7.6,cloudnativek8s/gpg:0.7.6,done
 
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
-pflookyy/envoy:v1.21.4,cloudnativek8s/envoy:v1.21.4,done
+pflookyy/envoy:v1.23.1,cloudnativek8s/envoy:v1.23.1,ready
 node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
@@ -178,4 +178,4 @@ imply/manager:2022.07,cloudnativek8s/imply-manager:2022.07,done
 imply/agent:v11,cloudnativek8s/imply-agent:v11,done
 zookeeper:3.5.9,cloudnativek8s/zookeeper:3.5.9,done
 
-quay.io/keycloak/keycloak:19.0.1,cloudnativek8s/quay-io-keycloak:19.0.1,ready
+quay.io/keycloak/keycloak:19.0.1,cloudnativek8s/quay-io-keycloak:19.0.1,done
