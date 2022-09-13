@@ -20,7 +20,7 @@ skhatri/gpg:0.7.6,cloudnativek8s/gpg:0.7.6,done
 
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
-pflookyy/envoy:v1.23.1,cloudnativek8s/envoy:v1.23.1,ready
+pflookyy/envoy:v1.23.1,cloudnativek8s/envoy:v1.23.1,done
 node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
@@ -115,6 +115,7 @@ trinodb/trino:392,cloudnativek8s/trino:392,done
 amancevice/superset:1.4.1,cloudnativek8s/superset:1.4.1,done
 amancevice/superset:1.5.1,cloudnativek8s/superset:1.5.1,done
 amancevice/superset:2.0.0,cloudnativek8s/superset:2.0.0,done
+pflookyy/superset-trino:2.0.0,cloudnativek8s/superset-trino:2.0.0,ready
 
 curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,done
 
