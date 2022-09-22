@@ -21,7 +21,7 @@ skhatri/gpg:0.7.6,cloudnativek8s/gpg:0.7.6,done
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
 pflookyy/envoy:v1.23.1,cloudnativek8s/envoy:v1.23.1,done
-pflookyy/envoy:v1.22.5,cloudnativek8s/envoy:v1.22.5,ready
+pflookyy/envoy:v1.22.5,cloudnativek8s/envoy:v1.22.5,done
 node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
@@ -90,6 +90,7 @@ imagemine/microservices-java-alpine:v1.0.2,cloudnativek8s/microservices-java-alp
 imagemine/eks-deployer:v1.0.0,cloudnativek8s/eks-deployer:v1.0.0,done
 imagemine/curl:v1.0.0,cloudnativek8s/curl:v1.0.0,done
 imagemine/airflow:v2.0.1-2.1.2-python3.8,cloudnativek8s/airflow:v2.0.1-2.1.2-python3.8,done
+imagemine/airflow:2.4.0-python3.8,cloudnativek8s/airflow:2.4.0-python3.8,ready
 
 typeboot/executor:0.8,cloudnativek8s/typeboot-executor:0.8,done
 typeboot/executor:0.2,cloudnativek8s/typeboot-executor:0.2,done
