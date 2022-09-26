@@ -21,7 +21,7 @@ skhatri/gpg:0.7.6,cloudnativek8s/gpg:0.7.6,done
 pflookyy/gpg:0.7.5,cloudnativek8s/gpg:0.7.5,done
 pflookyy/airflow:2.2.4-python3.8,cloudnativek8s/airflow:2.2.4-python3.8,done
 pflookyy/envoy:v1.23.1,cloudnativek8s/envoy:v1.23.1,done
-pflookyy/envoy:v1.22.5,cloudnativek8s/envoy:v1.22.5,ready
+pflookyy/envoy:v1.22.5,cloudnativek8s/envoy:v1.22.5,done
 node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
@@ -48,6 +48,7 @@ envoyproxy/envoy:v1.19.1,cloudnativek8s/front-proxy:v1.19.1,done
 envoyproxy/envoy:v1.19.1,cloudnativek8s/envoy:v1.19.1,done
 typeboot/typeboot-spec:0.4,cloudnativek8s/typeboot-spec:0.4,done
 sujanks/opa:0.31.0,cloudnativek8s/opa:0.31.0,done
+anantagarwal/opa:0.31.0-debug,cloudnativek8s/opa:0.31.0-debug,ready
 anantagarwal/opa:0.31.2,cloudnativek8s/opa:0.31.2,done
 skhatri/opa:0.19.4,cloudnativek8s/opa:0.19.4,done
 openpolicyagent/opa:0.41.0,cloudnativek8s/opa:0.41.0,done
@@ -182,6 +183,6 @@ zookeeper:3.5.9,cloudnativek8s/zookeeper:3.5.9,done
 
 quay.io/keycloak/keycloak:19.0.1,cloudnativek8s/quay-io-keycloak:19.0.1,done
 
-quay.io/argoproj/argocd:v2.4.12,cloudnativek8s/argocd:v2.4.12,ready
-redis:7.0.4-alpine,cloudnativek8s/redis:7.0.4-alpine,ready
-ghcr.io/dexidp/dex:v2.32.0,cloudnativek8s/dex:v2.32.0,ready
+quay.io/argoproj/argocd:v2.4.12,cloudnativek8s/argocd:v2.4.12,done
+redis:7.0.4-alpine,cloudnativek8s/redis:7.0.4-alpine,done
+ghcr.io/dexidp/dex:v2.32.0,cloudnativek8s/dex:v2.32.0,done
