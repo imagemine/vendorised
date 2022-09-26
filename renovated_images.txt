@@ -2,13 +2,13 @@
 # Format: {source_image}:{tag}@{sha256_digest},{target_image_without_tag}
 # Target image tag will be the same as source image tag
 
-node:18.7.0-alpine@sha256:39eee9aa771257847d3d8bcb7f775439d0267197060053761b54021bcae6338e,cloudnativek8s/node
+node:18.9.0-alpine@sha256:831d5eca5b7437a8132031a25bd18bdb0399e7415d4e8e02a8c14426b6dcf17f,cloudnativek8s/node
 nginx:1.23.1-alpine@sha256:082f8c10bd47b6acc8ef15ae61ae45dd8fde0e9f389a8b5cb23c37408642bf5d,cloudnativek8s/nginx
-openpolicyagent/opa:0.43.0@sha256:575296dd0151b2b4da75df32247e49deb7acfbfa2775369cc7ebd775f6772f35,cloudnativek8s/opa
-openpolicyagent/opa:0.43.0-debug@sha256:5f684be1b288d04397b46bb0093557d035162dade011dcd5021886bc759011bd,cloudnativek8s/opa
-golang:1.19.0@sha256:1860373709cc04bacfcf3bb1aaa8c14bb1243e971e9c4e70607ffa05f72466d6,cloudnativek8s/golang
+openpolicyagent/opa:0.44.0@sha256:8a4ba3cb8b64c9d8f8d972a18ae51953f7396a33794a35bc933f944dc5f57875,cloudnativek8s/opa
+openpolicyagent/opa:0.44.0-debug@sha256:c705122cb8f5701c1708de000ebe48ba9e2c71eeb9c06e6d2ac0624ad8bd64d2,cloudnativek8s/opa
+golang:1.19.1@sha256:2d17ffd12a2cdb25d4a633ad25f8dc29608ed84f31b3b983427d825280427095,cloudnativek8s/golang
 alpine:3.16.2@sha256:bc41182d7ef5ffc53a40b044e725193bc10142a1243f395ee852a8d9730fc2ad,cloudnativek8s/alpine
-renovate/renovate:32.159.5@sha256:b0f6e2dbe23728a417410ecccb7dba8aad2efa9e12585655ed0c1138ab5ce723,cloudnativek8s/renovate
-flyway/flyway:9.1.4-alpine@sha256:377d43bcb298ed553703db45daec68e00b46b30aed483b23997b276294df4ea0,cloudnativek8s/flyway
-python:3.10.6-alpine@sha256:5b4e425e03038da758a35dc6f4473b4cf9bbadb9a7cdc2766d5d1d10ef1c9ca9,cloudnativek8s/python
+renovate/renovate:32.204.0@sha256:9137a4167a6403754bd3829c5aab607c0af06b55ba071739bd01564e83f9e66a,cloudnativek8s/renovate
+flyway/flyway:9.3.1-alpine@sha256:54e2b3a5aebc99fd1be17470567ba9924a33f99d6513a839b990beca3ad1ec47,cloudnativek8s/flyway
+python:3.10.7-alpine@sha256:f34ed96bfd9f329f89ce3977373cef37ce5d0a4ba8c5ed4aebca785d649b9082,cloudnativek8s/python
 kong/kong-gateway:2.8.1.4-alpine@sha256:2dc8774cd71a4344963934c6ec51e88cb143feff47cdae81d29b20ec52b19f76,cloudnativek8s/kong-gateway
