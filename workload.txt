@@ -182,6 +182,6 @@ zookeeper:3.5.9,cloudnativek8s/zookeeper:3.5.9,done
 
 quay.io/keycloak/keycloak:19.0.1,cloudnativek8s/quay-io-keycloak:19.0.1,done
 
-quay.io/argoproj/argocd:v2.4.12,cloudnativek8s/argocd:v2.4.12,done
-redis:7.0.4-alpine,cloudnativek8s/redis:7.0.4-alpine,done
-ghcr.io/dexidp/dex:v2.32.0,cloudnativek8s/ex:v2.32.0,done
+quay.io/argoproj/argocd:v2.4.12,cloudnativek8s/argocd:v2.4.12,ready
+redis:7.0.4-alpine,cloudnativek8s/redis:7.0.4-alpine,ready
+ghcr.io/dexidp/dex:v2.32.0,cloudnativek8s/ex:v2.32.0,ready
