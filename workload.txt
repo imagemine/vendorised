@@ -48,7 +48,7 @@ envoyproxy/envoy:v1.19.1,cloudnativek8s/front-proxy:v1.19.1,done
 envoyproxy/envoy:v1.19.1,cloudnativek8s/envoy:v1.19.1,done
 typeboot/typeboot-spec:0.4,cloudnativek8s/typeboot-spec:0.4,done
 sujanks/opa:0.31.0,cloudnativek8s/opa:0.31.0,done
-anantagarwal/opa:0.31.0-debug,cloudnativek8s/opa:0.31.0-debug,ready
+anantagarwal/opa:0.31.0-debug,cloudnativek8s/opa:0.31.0-debug,done
 anantagarwal/opa:0.31.2,cloudnativek8s/opa:0.31.2,done
 skhatri/opa:0.19.4,cloudnativek8s/opa:0.19.4,done
 openpolicyagent/opa:0.41.0,cloudnativek8s/opa:0.41.0,done
@@ -177,7 +177,7 @@ goharbor/harbor-exporter:v2.4.1,cloudnativek8s/harbor-exporter:v2.4.1,done
 python:3.8-slim,cloudnativek8s/python:3.8-slim,done
 anantagarwal/kong-pongo-test:2.6.0,cloudnativek8s/kong-pongo-test:2.6.0,done
 
-imply/manager:2022.07,cloudnativek8s/imply-manager:2022.07,done
+imply/manager:2022.09.1,cloudnativek8s/imply-manager:2022.09.1,ready
 imply/agent:v11,cloudnativek8s/imply-agent:v11,done
 zookeeper:3.5.9,cloudnativek8s/zookeeper:3.5.9,done
 
