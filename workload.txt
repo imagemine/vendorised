@@ -187,5 +187,7 @@ quay.io/argoproj/argocd:v2.4.12,cloudnativek8s/argocd:v2.4.12,done
 redis:7.0.4-alpine,cloudnativek8s/redis:7.0.4-alpine,done
 ghcr.io/dexidp/dex:v2.32.0,cloudnativek8s/dex:v2.32.0,done
 
-prom/graphite-exporter:v0.12.3,cloudnativek8s/prom-graphite-exporter:v0.12.3,ready
+prom/graphite-exporter:v0.12.3,cloudnativek8s/prom-graphite-exporter:v0.12.3,done
 nosqlbench/nosqlbench:4.17.30,cloudnativek8s/nosqlbench:4.17.30,done
+
+vmware/kube-fluentd-operator:v1.16.7,cloudnativek8s/vmware-kube-fluentd-operator:v1.16.7,ready
