@@ -118,6 +118,7 @@ amancevice/superset:1.4.1,cloudnativek8s/superset:1.4.1,done
 amancevice/superset:1.5.1,cloudnativek8s/superset:1.5.1,done
 amancevice/superset:2.0.0,cloudnativek8s/superset:2.0.0,done
 pflookyy/superset-trino:2.0.0,cloudnativek8s/superset-trino:2.0.0,done
+pflookyy/superset-trino:2.0.0-b2,cloudnativek8s/superset-trino:2.0.0-b2,ready
 
 curlimages/curl:7.73.0,cloudnativek8s/curl:7.73.0,done
 
@@ -191,4 +192,4 @@ prom/graphite-exporter:v0.12.3,cloudnativek8s/prom-graphite-exporter:v0.12.3,don
 nosqlbench/nosqlbench:4.17.30,cloudnativek8s/nosqlbench:4.17.30,done
 
 vmware/kube-fluentd-operator:v1.16.7,cloudnativek8s/vmware-kube-fluentd-operator:v1.16.7,done
-apache/superset:2.0.0,cloudnativek8s/apache-superset:2.0.0,ready
+apache/superset:2.0.0,cloudnativek8s/apache-superset:2.0.0,done
