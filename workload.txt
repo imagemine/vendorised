@@ -190,4 +190,5 @@ ghcr.io/dexidp/dex:v2.32.0,cloudnativek8s/dex:v2.32.0,done
 prom/graphite-exporter:v0.12.3,cloudnativek8s/prom-graphite-exporter:v0.12.3,done
 nosqlbench/nosqlbench:4.17.30,cloudnativek8s/nosqlbench:4.17.30,done
 
-vmware/kube-fluentd-operator:v1.16.7,cloudnativek8s/vmware-kube-fluentd-operator:v1.16.7,ready
+vmware/kube-fluentd-operator:v1.16.7,cloudnativek8s/vmware-kube-fluentd-operator:v1.16.7,done
+apache/superset:2.0.0,cloudnativek8s/apache-superset:2.0.0,ready
