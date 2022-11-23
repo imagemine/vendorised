@@ -2,7 +2,7 @@
 #source/image:tag,cloudnativek8s/image:tag,ready
 
 
-skhatri/envoy:v1.21.5-alpine,cloudnativek8s/envoy:v1.22.5,ready
+skhatri/envoy:v1.21.5-alpine,cloudnativek8s/envoy:v1.21.5,ready
 envoyproxy/envoy-dev:1221cce68ae973fcdea38f27e6f017e492214e28,cloudnativek8s/envoy:v1.22.1,done
 quay.io/oauth2-proxy/oauth2-proxy:v7.2.0,cloudnativek8s/oauth2-proxy:v7.2.0,done
 neo4j:3.5.26,cloudnativek8s/neo4j:3.5.26,done
