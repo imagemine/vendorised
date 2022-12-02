@@ -1,8 +1,10 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 #source/image:tag,cloudnativek8s/image:tag,ready
 
-public.ecr.aws/sumologic/kubernetes-fluentd:1.14.6-sumo-5,cloudnativek8s/sumologic-kubernetes-fluentd:1.14.6-sumo-5,ready
-
+quay.io/minio/minio:latest,cloudnativek8s/s3-storage-proxy:0.1.0,ready
+skhatri/techdocs:latest,cloudnativek8s/techdocs:0.1.0,ready
+skhatri/aws-cli:latest,cloudnativek8s/aws-cli:0.1.0,ready
+public.ecr.aws/sumologic/kubernetes-fluentd:1.14.6-sumo-5,cloudnativek8s/sumologic-kubernetes-fluentd:1.14.6-sumo-5,done
 skhatri/envoy:v1.21.5-alpine,cloudnativek8s/envoy:v1.21.5,done
 envoyproxy/envoy-dev:1221cce68ae973fcdea38f27e6f017e492214e28,cloudnativek8s/envoy:v1.22.1,done
 quay.io/oauth2-proxy/oauth2-proxy:v7.2.0,cloudnativek8s/oauth2-proxy:v7.2.0,done
