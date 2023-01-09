@@ -3,6 +3,7 @@
 # Target image tag will be the same as source image tag
 
 node:18.13.0-alpine@sha256:b3f383c13d71066a4e2380d42f4563ac14ac76b3035a5bea4db84209e14665d5,cloudnativek8s/node
+node:16.18.0-alpine@sha256:264861cd2f785a2b727e9f908065e8d9e9358fcc1308da3cb207d9cba69afee2,cloudnativek8s/node
 nginx:1.23.3-alpine@sha256:dd8a054d7ef030e94a6449783605d6c306c1f69c10c2fa06b66a030e0d1db793,cloudnativek8s/nginx
 openpolicyagent/opa:0.47.4@sha256:46e519e74e1d9251e1ddb0a4db4d47b7d9111ac91d891f3fe274b581588e7ca3,cloudnativek8s/opa
 openpolicyagent/opa:0.47.4-debug@sha256:ecad98f93826d031f8f015a357b8b21e46c89a3c682a4a88b41b837d381fcff0,cloudnativek8s/opa
