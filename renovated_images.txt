@@ -5,6 +5,7 @@
 node:18.13.0-alpine@sha256:fda98168118e5a8f4269efca4101ee51dd5c75c0fe56d8eb6fad80455c2f5827,cloudnativek8s/node
 node:16.19.0-alpine@sha256:058dbdf1bf2945e4814a41ce0a30959ba6f72952ad93bcd8340c47bcc12b9f27,cloudnativek8s/node
 nginx:1.23.3-alpine@sha256:659610aadb34b7967dea7686926fdcf08d588a71c5121edb094ce0e4cdbc45e6,cloudnativek8s/nginx
+nginx:1.23.3-alpine-slim@sha256:60a7532e3b954c902cb651aa29a2c757c495e11c264368fdf77b139985b923c6,cloudnativek8s/nginx
 openpolicyagent/opa:0.48.0@sha256:2b18731123efc83ed8c71eeb2ca77985fd035268ce3ea21110290517fff980b2,cloudnativek8s/opa
 openpolicyagent/opa:0.48.0-debug@sha256:beba54f2e29cadc6cf06e0ebc55af81d9ba0f24c04dfc59c3a58c055761faa02,cloudnativek8s/opa
 golang:1.19.4@sha256:660f138b4477001d65324a51fa158c1b868651b44e43f0953bf062e9f38b72f3,cloudnativek8s/golang
