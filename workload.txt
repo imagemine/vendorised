@@ -44,6 +44,7 @@ imagemine/spark:3.1.2,cloudnativek8s/spark:3.1.2,done
 skhatri/spark:v3.0.2,cloudnativek8s/spark:3.0.2,done
 skhatri/spark:v3.0.1-b1,cloudnativek8s/spark:3.0.1-b1,done
 skhatri/gpg:0.6,cloudnativek8s/gpg:0.6,done
+skhatri/gpg:0.8.0,cloudnativek8s/gpg:0.8.0,ready
 sc-eks-snapshot-scheduler/snapshot-scheduler:v1.0,cloudnativek8s/eks-snapshot-scheduler:v1.0,notfound
 shukla2009/solace_exporter:latest,cloudnativek8s/solace_exporter:latest,done
 oliver006/redis_exporter:v1.3.2,cloudnativek8s/redis_exporter:v1.3.2,done
@@ -188,7 +189,7 @@ imply/manager:2022.09.1,cloudnativek8s/imply-manager:2022.09.1,done
 imply/agent:v11,cloudnativek8s/imply-agent:v11,done
 zookeeper:3.5.9,cloudnativek8s/zookeeper:3.5.9,done
 
-quay.io/keycloak/keycloak:20.0.1,cloudnativek8s/quay-io-keycloak:20.0.1,ready
+quay.io/keycloak/keycloak:20.0.1,cloudnativek8s/quay-io-keycloak:20.0.1,done
 
 quay.io/argoproj/argocd:v2.4.12,cloudnativek8s/argocd:v2.4.12,done
 redis:7.0.4-alpine,cloudnativek8s/redis:7.0.4-alpine,done
