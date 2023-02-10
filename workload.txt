@@ -44,7 +44,7 @@ imagemine/spark:3.1.2,cloudnativek8s/spark:3.1.2,done
 skhatri/spark:v3.0.2,cloudnativek8s/spark:3.0.2,done
 skhatri/spark:v3.0.1-b1,cloudnativek8s/spark:3.0.1-b1,done
 skhatri/gpg:0.6,cloudnativek8s/gpg:0.6,done
-skhatri/gpg:0.8.0,cloudnativek8s/gpg:0.8.0,ready
+skhatri/gpg:0.8.0,cloudnativek8s/gpg:0.8.1,ready
 sc-eks-snapshot-scheduler/snapshot-scheduler:v1.0,cloudnativek8s/eks-snapshot-scheduler:v1.0,notfound
 shukla2009/solace_exporter:latest,cloudnativek8s/solace_exporter:latest,done
 oliver006/redis_exporter:v1.3.2,cloudnativek8s/redis_exporter:v1.3.2,done
