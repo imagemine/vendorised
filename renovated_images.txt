@@ -13,4 +13,4 @@ alpine:3.17.3@sha256:124c7d2707904eea7431fffe91522a01e5a861a624ee31d03372cc1d138
 renovate/renovate:32.241.11@sha256:9a62f9a3941634b692e295eacc8bbd187069a9ce23f14a7ff7732c5cd38dbab4,cloudnativek8s/renovate
 flyway/flyway:9.16.1-alpine@sha256:c29d916caf9617b702b6640733516c67ab773e75d7cb5da77b8aec622daffc1a,cloudnativek8s/flyway
 python:3.11.2-alpine@sha256:1c66f5282876229c87851cde3a1c7eb8939f212cdf398201f86f5416c7907656,cloudnativek8s/python
-kong/kong-gateway:3.2.2.0-alpine@sha256:ad26e3c253f1aa9ee037501d297c96b10f8fffd7b73214e421959a3693bb102a,cloudnativek8s/kong-gateway
+kong/kong-gateway:3.2.2.1-alpine@sha256:856fd944a41f683207291b37b435c0e0e286bc60a31842029694d8a37e1d24fa,cloudnativek8s/kong-gateway
