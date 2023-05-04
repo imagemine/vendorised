@@ -111,6 +111,7 @@ skhatri/k8s-git-sync:v3.1.0,cloudnativek8s/k8s-git-sync:v3.1.0,done
 k8s.gcr.io/git-sync/git-sync:v3.3.2,cloudnativek8s/k8s-git-sync:v3.3.2,done
 k8s.gcr.io/git-sync/git-sync:v3.3.4,cloudnativek8s/k8s-git-sync:v3.3.4,done
 k8s.gcr.io/git-sync/git-sync:v3.5.0,cloudnativek8s/k8s-git-sync:v3.5.0,done
+registry.k8s.io/git-sync/git-sync:v3.6.5,cloudnativek8s/k8s-git-sync:v3.6.5,create
 skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,cloudnativek8s/datastax-dse-server-ro:6.8.9-ubi7-b4,done
 
 travix/vault-exporter:1.1.2,cloudnativek8s/vault-exporter:1.1.2,done
