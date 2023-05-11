@@ -2,15 +2,15 @@
 # Format: {source_image}:{tag}@{sha256_digest},{target_image_without_tag}
 # Target image tag will be the same as source image tag
 
-node:18.16.0-alpine@sha256:ca5d399560a9d239cbfa28eec00417f1505e5e108f3ec6938d230767eaa81f61,cloudnativek8s/node
+node:18.16.0-alpine@sha256:1ccc70acda680aa4ba47f53e7c40b2d4d6892de74817128e0662d32647dd7f4d,cloudnativek8s/node
 node:16.20.0-alpine@sha256:710a2c192ca426e03e4f3ec1869e5c29db855eb6969b74e6c50fd270ffccd3f1,cloudnativek8s/node
-nginx:1.24.0-alpine@sha256:4411951a38c9fb7e91813971944d390ca7a824413ea318260e2bb4da86b172a8,cloudnativek8s/nginx
+nginx:1.24.0-alpine@sha256:b7db705c8986070be8aa99ec0886886ddb3c75b1e46301f54865b16db79e9e52,cloudnativek8s/nginx
 nginx:1.24.0-alpine-slim@sha256:1fc79d650e6aa16683ab887298874842f46e6c3738b01d8d82fc88053eda1905,cloudnativek8s/nginx
-openpolicyagent/opa:0.51.0@sha256:4ae94cb5e6fb6c1a55d9cb19a68da0469a16ac1bd9c32649a59c0c7abaa8f5ae,cloudnativek8s/opa
-openpolicyagent/opa:0.51.0-debug@sha256:e1f6c64b9e69c765046a75130e3d61047bec54557a5fe92395a6b465e187fed6,cloudnativek8s/opa
-golang:1.20.3-alpine@sha256:48c87cd759e3342fcbc4241533337141e7d8457ec33ab9660abe0a4346c30b60,cloudnativek8s/golang
-alpine:3.17.3@sha256:124c7d2707904eea7431fffe91522a01e5a861a624ee31d03372cc1d138a3126,cloudnativek8s/alpine
+openpolicyagent/opa:0.52.0@sha256:f0a027ad34436e6b3cb51a7b8ab7f12bb89657a2d2ae13f3acc4de63876f72b0,cloudnativek8s/opa
+openpolicyagent/opa:0.52.0-debug@sha256:68c8cc3021887b46182536b3fb64de669dd2dd6ebd92e2dcebe320823bc94c47,cloudnativek8s/opa
+golang:1.20.4-alpine@sha256:4ee203ff3933e7a6f18d3574fd6661a73b58c60f028d2927274400f4774aaa41,cloudnativek8s/golang
+alpine:3.18.0@sha256:02bb6f428431fbc2809c5d1b41eab5a68350194fb508869a33cb1af4444c9b11,cloudnativek8s/alpine
 renovate/renovate:32.241.11@sha256:9a62f9a3941634b692e295eacc8bbd187069a9ce23f14a7ff7732c5cd38dbab4,cloudnativek8s/renovate
-flyway/flyway:9.16.1-alpine@sha256:c29d916caf9617b702b6640733516c67ab773e75d7cb5da77b8aec622daffc1a,cloudnativek8s/flyway
-python:3.11.3-alpine@sha256:2659ee0e84fab5bd62a4d9cbe5b6750285e79d6d6ec00d8e128352dad956f096,cloudnativek8s/python
+flyway/flyway:9.17.0-alpine@sha256:09743c75de8afc1bd3cf827fa900bdb342c87963d8560ce0361ca316f195482f,cloudnativek8s/flyway
+python:3.11.3-alpine@sha256:50d75c092a5b58e9e62249ad02a0cbc66360c48e6f653f66d24d6d229f5fba1a,cloudnativek8s/python
 kong/kong-gateway:3.2.2.1-alpine@sha256:856fd944a41f683207291b37b435c0e0e286bc60a31842029694d8a37e1d24fa,cloudnativek8s/kong-gateway
