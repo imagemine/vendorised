@@ -16,4 +16,4 @@ python:3.11.3-alpine@sha256:caafba876f841774905f73df0fcaf7fe3f55aaf9cb48a9e369a4
 kong/kong-gateway:3.3.0.0-alpine@sha256:e244e4a056bb8eaeed1f2e1d48f1e6092f0b63b45006483670fb29059b5e7fbf,cloudnativek8s/kong-gateway
 temporalio/server:1.20.3.2@sha256:2375e1e8e0522504a6210aa4f930b01086362d9675677a328dd7e947f58004d1,cloudnativek8s/temporal-server
 temporalio/admin-tools:1.20.3.2@sha256:d456b82f4ff9403bf5dd799201d15d697e21a486d86f9a1d4ee451d73e12937f,cloudnativek8s/temporal-admin-tools
-temporalio/ui:2.15.0@sha256:8bd702fb0ac1f3687b257fbe6d4e5870e8c84b28d60ef6f023a5fda409c98ce1,cloudnativek8s/temporal-ui
+temporalio/ui:2.15.0@sha256:80d855a76deb8808c3ada8cdc0ca894c4126575f024ca7c8cbe1f09f3d2033d2,cloudnativek8s/temporal-ui
