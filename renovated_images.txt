@@ -14,3 +14,6 @@ renovate/renovate:32.241.11@sha256:9a62f9a3941634b692e295eacc8bbd187069a9ce23f14
 flyway/flyway:9.19.1-alpine@sha256:26be610812af3380cd6f6f1a91d3ed6074a6ef3a7297e6a0c7d82b6472ca0b89,cloudnativek8s/flyway
 python:3.11.3-alpine@sha256:caafba876f841774905f73df0fcaf7fe3f55aaf9cb48a9e369a41077f860d4a7,cloudnativek8s/python
 kong/kong-gateway:3.3.0.0-alpine@sha256:e244e4a056bb8eaeed1f2e1d48f1e6092f0b63b45006483670fb29059b5e7fbf,cloudnativek8s/kong-gateway
+temporalio/server:1.20.3.2@sha256:2375e1e8e0522504a6210aa4f930b01086362d9675677a328dd7e947f58004d1,cloudnativek8s/temporal-server
+temporalio/admin-tools:1.20.3.2@sha256:d456b82f4ff9403bf5dd799201d15d697e21a486d86f9a1d4ee451d73e12937f,cloudnativek8s/temporal-admin-tools
+temporalio/ui:2.15.0@sha256:8bd702fb0ac1f3687b257fbe6d4e5870e8c84b28d60ef6f023a5fda409c98ce1,cloudnativek8s/temporal-ui
