@@ -56,6 +56,7 @@ dpage/pgadmin4:5.1,cloudnativek8s/pgadmin4:5.1,done
 envoyproxy/envoy:v1.19.1,cloudnativek8s/front-proxy:v1.19.1,done
 envoyproxy/envoy:v1.19.1,cloudnativek8s/envoy:v1.19.1,done
 typeboot/typeboot-spec:0.4,cloudnativek8s/typeboot-spec:0.4,done
+typeboot/typeboot-spec:0.5,cloudnativek8s/typeboot-spec:0.5,ready
 sujanks/opa:0.31.0,cloudnativek8s/opa:0.31.0,done
 anantagarwal/opa:0.31.0-debug,cloudnativek8s/opa:0.31.0-debug,done
 anantagarwal/opa:0.31.2,cloudnativek8s/opa:0.31.2,done
@@ -111,7 +112,7 @@ skhatri/k8s-git-sync:v3.1.0,cloudnativek8s/k8s-git-sync:v3.1.0,done
 k8s.gcr.io/git-sync/git-sync:v3.3.2,cloudnativek8s/k8s-git-sync:v3.3.2,done
 k8s.gcr.io/git-sync/git-sync:v3.3.4,cloudnativek8s/k8s-git-sync:v3.3.4,done
 k8s.gcr.io/git-sync/git-sync:v3.5.0,cloudnativek8s/k8s-git-sync:v3.5.0,done
-registry.k8s.io/git-sync/git-sync:v3.6.5,cloudnativek8s/k8s-git-sync:v3.6.5,ready
+registry.k8s.io/git-sync/git-sync:v3.6.5,cloudnativek8s/k8s-git-sync:v3.6.5,done
 skhatri/datastax-dse-server-ro:6.8.9-ubi7-b4,cloudnativek8s/datastax-dse-server-ro:6.8.9-ubi7-b4,done
 
 travix/vault-exporter:1.1.2,cloudnativek8s/vault-exporter:1.1.2,done
