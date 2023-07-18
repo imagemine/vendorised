@@ -1,6 +1,7 @@
 #DO NOT DELETE THE CONTENT. JUST ADD IMAGES TO THE TOP
 #source/image:tag,cloudnativek8s/image:tag,ready
 
+public.ecr.aws/sumologic/kubernetes-fluentd:1.15.3-sumo-0,cloudnativek8s/sumologic-kubernetes-fluentd:1.15.3-sumo-0,ready
 public.ecr.aws/sumologic/kubernetes-fluentd:1.14.6-sumo-5,cloudnativek8s/sumologic-kubernetes-fluentd:1.14.6-sumo-5,done
 quay.io/oauth2-proxy/oauth2-proxy:v7.2.0,cloudnativek8s/oauth2-proxy:v7.2.0,done
 neo4j:3.5.26,cloudnativek8s/neo4j:3.5.26,done
@@ -32,7 +33,7 @@ node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
 typeboot/executor:v1.0.2,cloudnativek8s/typeboot-executor:v1.0.2,done
-typeboot/executor:v1.0.3,cloudnativek8s/typeboot-executor:v1.0.3.1,ready
+typeboot/executor:v1.0.3,cloudnativek8s/typeboot-executor:v1.0.3.1,done
 logstash:7.16.2,cloudnativek8s/logstash:7.16.2,done
 logstash:6.8.22,cloudnativek8s/logstash:6.8.22,done
 
