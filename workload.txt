@@ -58,7 +58,7 @@ dpage/pgadmin4:5.1,cloudnativek8s/pgadmin4:5.1,done
 envoyproxy/envoy:v1.19.1,cloudnativek8s/front-proxy:v1.19.1,done
 envoyproxy/envoy:v1.19.1,cloudnativek8s/envoy:v1.19.1,done
 
-typeboot/typeboot-spec:0.6,cloudnativek8s/typeboot-spec:0.6,ready
+typeboot/typeboot-spec:0.7,cloudnativek8s/typeboot-spec:0.7,ready
 sujanks/opa:0.31.0,cloudnativek8s/opa:0.31.0,done
 anantagarwal/opa:0.31.0-debug,cloudnativek8s/opa:0.31.0-debug,done
 anantagarwal/opa:0.31.2,cloudnativek8s/opa:0.31.2,done
