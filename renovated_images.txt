@@ -2,18 +2,18 @@
 # Format: {source_image}:{tag}@{sha256_digest},{target_image_without_tag}
 # Target image tag will be the same as source image tag
 
-node:18.16.0-alpine@sha256:402b5278a24c69d57a9d978aee94df08dc3fbdc310a78538f5df09b474550ac3,cloudnativek8s/node
-node:16.20.0-alpine@sha256:f711d8a40d3515d7d44e344306382179fc8bfc4fe75f1a77b27a686a88649430,cloudnativek8s/node
+node:18.17.0-alpine@sha256:93d91deea65c9a0475507e8bc8b1917d6278522322f00c00b3ab09cab6830060,cloudnativek8s/node
+node:16.20.1-alpine@sha256:82bcf77a5de631c6b19f4449ccec82bfbb7d8f6c94d6ae3bdf760ed67e080cb1,cloudnativek8s/node
 nginx:1.25.1-alpine@sha256:2d194184b067db3598771b4cf326cfe6ad5051937ba1132b8b7d4b0184e0d0a6,cloudnativek8s/nginx
 nginx:1.25.1-alpine-slim@sha256:3b29f9ec76a085552a6ad469b84711642b2421c7c44d2b765ca8d9e8fb25c4e8,cloudnativek8s/nginx
-openpolicyagent/opa:0.53.1@sha256:577639e25fab20a895a644728d0f1ae337749bef5d9ccc19a62f8a61f49b1e3a,cloudnativek8s/opa
-openpolicyagent/opa:0.53.1-debug@sha256:3f9713517e3873565682c06b241736ffb38e0d9f867c02d4751ef64d894f5afa,cloudnativek8s/opa
-golang:1.20.5-alpine@sha256:e7cc33118f807c67d9f2dfc811cc2cc8b79b3687d0b4ac891dd59bb2a5e4a8d3,cloudnativek8s/golang
+openpolicyagent/opa:0.54.0@sha256:4aff211c3e0dc7da22e907ee1b149f23506b7b98f7e93ebc1b8c576d25d6b1bf,cloudnativek8s/opa
+openpolicyagent/opa:0.54.0-debug@sha256:8a37d104918c44d391170cb5aa56faedb4ab9d291b092e8436935cbbf4275854,cloudnativek8s/opa
+golang:1.20.6-alpine@sha256:6f592e0689192b7e477313264bb190024d654ef0a08fb1732af4f4b498a2e8ad,cloudnativek8s/golang
 alpine:3.18.2@sha256:82d1e9d7ed48a7523bdebc18cf6290bdb97b82302a8a9c27d4fe885949ea94d1,cloudnativek8s/alpine
 renovate/renovate:32.241.11@sha256:9a62f9a3941634b692e295eacc8bbd187069a9ce23f14a7ff7732c5cd38dbab4,cloudnativek8s/renovate
-flyway/flyway:9.19.4-alpine@sha256:3b5a8f015325274ac839baf93f7b3f4ab67cc2e5cdc44d566d81574e5e867eae,cloudnativek8s/flyway
+flyway/flyway:9.21.0-alpine@sha256:57715837c1f7e3bf9ef6d363a9da52ef992d0941e6246cb89cabd4e6fda53ebc,cloudnativek8s/flyway
 python:3.11.4-alpine@sha256:0a56f24afa1fc7f518aa690cb8c7be661225e40b157d9bb8c6ef402164d9faa7,cloudnativek8s/python
-kong/kong-gateway:3.3.0.0-alpine@sha256:e244e4a056bb8eaeed1f2e1d48f1e6092f0b63b45006483670fb29059b5e7fbf,cloudnativek8s/kong-gateway
-temporalio/server:1.20.3.2@sha256:2375e1e8e0522504a6210aa4f930b01086362d9675677a328dd7e947f58004d1,cloudnativek8s/temporal-server
-temporalio/admin-tools:1.20.3.2@sha256:d456b82f4ff9403bf5dd799201d15d697e21a486d86f9a1d4ee451d73e12937f,cloudnativek8s/temporal-admin-tools
-temporalio/ui:2.16.1@sha256:c01ac49601d4ca738b36025749ad727c3c55f6331d5fdc2337fa038d79101bc7,cloudnativek8s/temporal-ui
+kong/kong-gateway:3.3.1.0-alpine@sha256:773c081d91d67ed2144627970a5360586b966265b8b16b490173bf4ee9389a52,cloudnativek8s/kong-gateway
+temporalio/server:1.21.2.0@sha256:aa59cabcd71f32e3e1637c87598c16279aeb7a1b59f9edd0847814a026d26463,cloudnativek8s/temporal-server
+temporalio/admin-tools:1.21.2.0@sha256:87600bd6d914f66b9b001bc8691102e2522ab0ce892aeb027d66147579ddcd33,cloudnativek8s/temporal-admin-tools
+temporalio/ui:2.16.2@sha256:99a6902725a3db36f17504f1d035f41142eac1ce7b27ec39d89c636009f2b896,cloudnativek8s/temporal-ui
