@@ -58,7 +58,7 @@ dpage/pgadmin4:5.1,cloudnativek8s/pgadmin4:5.1,done
 envoyproxy/envoy:v1.19.1,cloudnativek8s/front-proxy:v1.19.1,done
 envoyproxy/envoy:v1.19.1,cloudnativek8s/envoy:v1.19.1,done
 
-typeboot/typeboot-spec:0.13,cloudnativek8s/typeboot-spec:0.13,ready
+typeboot/typeboot-spec:0.13,cloudnativek8s/typeboot-spec:0.13,done
 sujanks/opa:0.31.0,cloudnativek8s/opa:0.31.0,done
 anantagarwal/opa:0.31.0-debug,cloudnativek8s/opa:0.31.0-debug,done
 anantagarwal/opa:0.31.2,cloudnativek8s/opa:0.31.2,done
@@ -207,4 +207,4 @@ nosqlbench/nosqlbench:5.17.1,cloudnativek8s/nosqlbench:5.17.1,done
 vmware/kube-fluentd-operator:v1.16.7,cloudnativek8s/vmware-kube-fluentd-operator:v1.16.7,done
 apache/superset:2.0.0,cloudnativek8s/apache-superset:2.0.0,done
 
-groovy:4.0.11-jdk17-alpine,cloudnativek8s/groovy:4.0.11-jdk17-alpine,done
+groovy:4.0.13-jdk17-alpine,cloudnativek8s/groovy:4.0.13-jdk17-alpine,ready
