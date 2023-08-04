@@ -33,7 +33,7 @@ node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
 typeboot/executor:v1.0.2,cloudnativek8s/typeboot-executor:v1.0.2,done
-typeboot/executor:v1.0.4,cloudnativek8s/typeboot-executor:v1.0.4,done
+typeboot/executor:v1.0.4,cloudnativek8s/typeboot-executor:v1.0.4,ready
 logstash:7.16.2,cloudnativek8s/logstash:7.16.2,done
 logstash:6.8.22,cloudnativek8s/logstash:6.8.22,done
 
