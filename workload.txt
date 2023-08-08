@@ -33,7 +33,7 @@ node:16.15.0-alpine,cloudnativek8s/node:16.15.0-alpine,done
 skhatri/k8s-read:v1.0.4,cloudnativek8s/k8s-read:v1.0.4,done
 
 typeboot/executor:v1.0.2,cloudnativek8s/typeboot-executor:v1.0.2,done
-typeboot/executor:v1.0.4,cloudnativek8s/typeboot-executor:v1.0.4,ready
+typeboot/executor:v1.0.4,cloudnativek8s/typeboot-executor:v1.0.4,done
 logstash:7.16.2,cloudnativek8s/logstash:7.16.2,done
 logstash:6.8.22,cloudnativek8s/logstash:6.8.22,done
 
@@ -208,3 +208,6 @@ vmware/kube-fluentd-operator:v1.16.7,cloudnativek8s/vmware-kube-fluentd-operator
 apache/superset:2.0.0,cloudnativek8s/apache-superset:2.0.0,done
 
 groovy:4.0.13-jdk17-alpine,cloudnativek8s/groovy:4.0.13-jdk17-alpine,done
+
+atlassian/bitbucket-server:7.19.0,cloudnativek8s/bitbucket-server:7.19.0,ready
+
