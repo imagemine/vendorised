@@ -209,5 +209,7 @@ apache/superset:2.0.0,cloudnativek8s/apache-superset:2.0.0,done
 
 groovy:4.0.13-jdk17-alpine,cloudnativek8s/groovy:4.0.13-jdk17-alpine,done
 
-atlassian/bitbucket-server:7.19.0,cloudnativek8s/bitbucket-server:7.19.0,ready
+atlassian/bitbucket-server:7.19.0,cloudnativek8s/bitbucket-server:7.19.0,done
+
+grafana/loki:main,cloudnativek8s/grafana-loki:main,create
 
