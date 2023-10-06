@@ -211,5 +211,6 @@ groovy:4.0.13-jdk17-alpine,cloudnativek8s/groovy:4.0.13-jdk17-alpine,done
 
 atlassian/bitbucket-server:7.19.0,cloudnativek8s/bitbucket-server:7.19.0,done
 
-grafana/loki:main,cloudnativek8s/grafana-loki:main,ready
+grafana/loki:main,cloudnativek8s/grafana-loki:main,done
 
+docker.getcollate.io/openmetadata/server:1.1.7,cloudnativek8s/openmetadata-server:1.1.7,ready
