@@ -141,10 +141,6 @@ kiwigrid/k8s-sidecar:1.1.0,cloudnativek8s/k8s-sidecar:1.1.0,done
 hadolint/hadolint:2.6.0,cloudnativek8s/hadolint:2.6.0,done
 openpolicyagent/conftest:v0.27.0,cloudnativek8s/conftest:v0.27.0,done
 
-
-
-
-
 grafana/grafana:7.2.1,cloudnativek8s/grafana:7.2.1
 prometheus/prometheus:v2.23.0,cloudnativek8s/prometheus:v2.23.0
 prometheus/alertmanager:v0.21.0,cloudnativek8s/prometheus-alertmanager:v0.21.0
@@ -214,4 +210,6 @@ atlassian/bitbucket-server:7.19.0,cloudnativek8s/bitbucket-server:7.19.0,done
 grafana/loki:main,cloudnativek8s/grafana-loki:main,done
 
 docker.getcollate.io/openmetadata/server:1.1.7,cloudnativek8s/openmetadata-server:1.1.7,done
-docker.getcollate.io/openmetadata/ingestion:1.1.7,cloudnativek8s/openmetadata-ingestion:1.1.7,ready
+docker.getcollate.io/openmetadata/ingestion:1.1.7,cloudnativek8s/openmetadata-ingestion:1.1.7,done
+quay.io/serverlessworkflow/diagram-service:1.0,cloudnativek8s/serverlessworkflow-diagram-service:1.0,ready
+gitea/gitea:1.20.5,cloudnativek8s/gitea:1.20.5,ready
