@@ -53,7 +53,7 @@ sc-eks-snapshot-scheduler/snapshot-scheduler:v1.0,cloudnativek8s/eks-snapshot-sc
 shukla2009/solace_exporter:latest,cloudnativek8s/solace_exporter:latest,done
 oliver006/redis_exporter:v1.3.2,cloudnativek8s/redis_exporter:v1.3.2,done
 dpage/pgadmin4,cloudnativek8s/pgadmin4:latest,done
-dpage/pgadmin4:5.1,cloudnativek8s/pgadmin4:5.1,done
+dpage/pgadmin4:7.8,cloudnativek8s/pgadmin4:7.8,ready
 
 envoyproxy/envoy:v1.19.1,cloudnativek8s/front-proxy:v1.19.1,done
 envoyproxy/envoy:v1.19.1,cloudnativek8s/envoy:v1.19.1,done
@@ -211,5 +211,5 @@ grafana/loki:main,cloudnativek8s/grafana-loki:main,done
 
 docker.getcollate.io/openmetadata/server:1.1.7,cloudnativek8s/openmetadata-server:1.1.7,done
 docker.getcollate.io/openmetadata/ingestion:1.1.7,cloudnativek8s/openmetadata-ingestion:1.1.7,done
-quay.io/serverlessworkflow/diagram-service:1.0,cloudnativek8s/serverlessworkflow-diagram-service:1.0,ready
-gitea/gitea:1.20.5,cloudnativek8s/gitea:1.20.5,ready
+quay.io/serverlessworkflow/diagram-service:1.0,cloudnativek8s/serverlessworkflow-diagram-service:1.0,done
+gitea/gitea:1.20.5,cloudnativek8s/gitea:1.20.5,done
