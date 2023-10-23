@@ -53,7 +53,7 @@ sc-eks-snapshot-scheduler/snapshot-scheduler:v1.0,cloudnativek8s/eks-snapshot-sc
 shukla2009/solace_exporter:latest,cloudnativek8s/solace_exporter:latest,done
 oliver006/redis_exporter:v1.3.2,cloudnativek8s/redis_exporter:v1.3.2,done
 dpage/pgadmin4,cloudnativek8s/pgadmin4:latest,done
-dpage/pgadmin4:7.8,cloudnativek8s/pgadmin4:7.8,ready
+dpage/pgadmin4:7.8,cloudnativek8s/pgadmin4:7.8,done
 
 envoyproxy/envoy:v1.19.1,cloudnativek8s/front-proxy:v1.19.1,done
 envoyproxy/envoy:v1.19.1,cloudnativek8s/envoy:v1.19.1,done
@@ -154,6 +154,7 @@ datastax/cass-operator:1.5.0-ubi,cloudnativek8s/datastax-cass-operator:1.5.0-ubi
 datastax/cass-operator:1.5.0-ubi7,cloudnativek8s/datastax-cass-operator:1.5.0-ubi7
 datastax/cass-operator:1.6.0-ubi,cloudnativek8s/datastax-cass-operator:1.6.0-ubi
 datastax/dse-server:6.8.9-ubi7,cloudnativek8s/datastax-dse-server:6.8.9-ubi7
+k8ssandra/cass-operator:v1.17.2,cloudnativek8s/k8ssandra-cass-operator:v1.17.2,ready
 
 keycloak/keycloak-gatekeeper:7.0.0,cloudnativek8s/keycloak-gatekeeper:7.0.0
 jboss/keycloak:16.1.0,cloudnativek8s/keycloak:16.1.0,done
