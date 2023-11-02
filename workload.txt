@@ -154,7 +154,7 @@ datastax/cass-operator:1.5.0-ubi,cloudnativek8s/datastax-cass-operator:1.5.0-ubi
 datastax/cass-operator:1.5.0-ubi7,cloudnativek8s/datastax-cass-operator:1.5.0-ubi7
 datastax/cass-operator:1.6.0-ubi,cloudnativek8s/datastax-cass-operator:1.6.0-ubi
 datastax/dse-server:6.8.9-ubi7,cloudnativek8s/datastax-dse-server:6.8.9-ubi7
-k8ssandra/cass-operator:v1.17.2,cloudnativek8s/k8ssandra-cass-operator:v1.17.2,ready
+k8ssandra/cass-operator:v1.17.2,cloudnativek8s/k8ssandra-cass-operator:v1.17.2,done
 
 keycloak/keycloak-gatekeeper:7.0.0,cloudnativek8s/keycloak-gatekeeper:7.0.0
 jboss/keycloak:16.1.0,cloudnativek8s/keycloak:16.1.0,done
@@ -214,3 +214,5 @@ docker.getcollate.io/openmetadata/server:1.1.7,cloudnativek8s/openmetadata-serve
 docker.getcollate.io/openmetadata/ingestion:1.1.7,cloudnativek8s/openmetadata-ingestion:1.1.7,done
 quay.io/serverlessworkflow/diagram-service:1.0,cloudnativek8s/serverlessworkflow-diagram-service:1.0,done
 gitea/gitea:1.20.5,cloudnativek8s/gitea:1.20.5,done
+
+k8ssandra/system-logger:v1.18.1,cloudnativek8s/k8ssandra-system-logger:v1.18.1,ready
