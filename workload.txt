@@ -210,7 +210,7 @@ atlassian/bitbucket-server:7.19.0,cloudnativek8s/bitbucket-server:7.19.0,done
 
 grafana/loki:main,cloudnativek8s/grafana-loki:main,done
 
-docker.getcollate.io/openmetadata/server:1.1.7,cloudnativek8s/openmetadata-server:1.1.7,done
+docker.getcollate.io/openmetadata/server:1.1.7,cloudnativek8s/openmetadata-server:1.2.0,done
 docker.getcollate.io/openmetadata/ingestion:1.1.7,cloudnativek8s/openmetadata-ingestion:1.1.7,done
 quay.io/serverlessworkflow/diagram-service:1.0,cloudnativek8s/serverlessworkflow-diagram-service:1.0,done
 gitea/gitea:1.20.5,cloudnativek8s/gitea:1.20.5,done
