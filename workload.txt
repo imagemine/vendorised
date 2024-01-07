@@ -210,9 +210,14 @@ atlassian/bitbucket-server:7.19.0,cloudnativek8s/bitbucket-server:7.19.0,done
 
 grafana/loki:main,cloudnativek8s/grafana-loki:main,done
 
-docker.getcollate.io/openmetadata/server:1.2.0,cloudnativek8s/openmetadata-server:1.2.0,ready
+docker.getcollate.io/openmetadata/server:1.2.0,cloudnativek8s/openmetadata-server:1.2.0,done
 docker.getcollate.io/openmetadata/ingestion:1.1.7,cloudnativek8s/openmetadata-ingestion:1.1.7,done
 quay.io/serverlessworkflow/diagram-service:1.0,cloudnativek8s/serverlessworkflow-diagram-service:1.0,done
 gitea/gitea:1.20.5,cloudnativek8s/gitea:1.20.5,done
 
 k8ssandra/system-logger:v1.18.1,cloudnativek8s/k8ssandra-system-logger:v1.18.1,done
+
+camunda/zeebe:8.4.0,cloudnativek8s/camunda-zeebee:8.4.0,ready
+camunda/operate:8.4.0,cloudnativek8s/camunda-operate:8.4.0,ready
+camunda/tasklist:8.4.0,cloudnativek8s/camunda-tasklist:8.4.0,ready
+camunda/connectors-bundle:8.4.0,cloudnativek8s/camunda-connectors-bundle:8.4.0,ready
