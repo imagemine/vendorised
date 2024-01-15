@@ -217,7 +217,10 @@ gitea/gitea:1.20.5,cloudnativek8s/gitea:1.20.5,done
 
 k8ssandra/system-logger:v1.18.1,cloudnativek8s/k8ssandra-system-logger:v1.18.1,done
 
-camunda/zeebe:8.4.0,cloudnativek8s/camunda-zeebee:8.4.0,ready
-camunda/operate:8.4.0,cloudnativek8s/camunda-operate:8.4.0,ready
-camunda/tasklist:8.4.0,cloudnativek8s/camunda-tasklist:8.4.0,ready
-camunda/connectors-bundle:8.4.0,cloudnativek8s/camunda-connectors-bundle:8.4.0,ready
+camunda/zeebe:8.4.0,cloudnativek8s/camunda-zeebee:8.4.0,done
+camunda/operate:8.4.0,cloudnativek8s/camunda-operate:8.4.0,done
+camunda/tasklist:8.4.0,cloudnativek8s/camunda-tasklist:8.4.0,done
+camunda/connectors-bundle:8.4.0,cloudnativek8s/camunda-connectors-bundle:8.4.0,done
+
+opensearchproject/opensearch:2.11.0,cloudnativek8s/opensearchproject-opensearch:2.11.0,ready
+opensearchproject/opensearch-dashboards:2.11.0,cloudnativek8s/opensearchproject-opensearch-dashboards:2.11.0,ready
