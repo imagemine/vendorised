@@ -224,4 +224,5 @@ camunda/connectors-bundle:8.4.0,cloudnativek8s/camunda-connectors-bundle:8.4.0,d
 
 opensearchproject/opensearch:2.11.0,cloudnativek8s/opensearchproject-opensearch:2.11.0,done
 opensearchproject/opensearch-dashboards:2.11.0,cloudnativek8s/opensearchproject-opensearch-dashboards:2.11.0,done
-redis:7.2.4-alpine3.19,cloudnativek8s/redis:7.2.4-alpine3.19,ready
+redis:7.2.4-alpine3.19,cloudnativek8s/redis:7.2.4-alpine3.19,done
+bitnami/redis:7.2.4,cloudnativek8s/bitnami-redis:7.2.4,ready
