@@ -53,11 +53,11 @@ echo "Files changed from ${compare_from} to HEAD:"
 echo "${changed_files}"
 
 # Renovated images changed - build changed ones
-if grep -q "^renovated_images.txt$" <<< "$changed_files"; then
-  git diff -w "${compare_from}" HEAD renovated_images.txt | { grep "^+[^+]" || true; } | cut -c2- | { grep -v "^#" || true; } | while IFS= read -r item; do
-    tag_and_push "$item"
-  done
-fi
+#if grep -q "^renovated_images.txt$" <<< "$changed_files"; then
+#  git diff -w "${compare_from}" HEAD renovated_images.txt | { grep "^+[^+]" || true; } | cut -c2- | { grep -v "^#" || true; } | while IFS= read -r item; do
+#    tag_and_push "$item"
+#  done
+#fi
 
 # workload.txt (manually maintained) changed or some other change (e.g. empty commit) - build ready images from workload.txt
 if grep -q "^workload.txt$" <<< "$changed_files" || ! grep -q "^renovated_images.txt$" <<< "$changed_files"; then
