@@ -228,4 +228,5 @@ redis:7.2.4-alpine3.19,cloudnativek8s/redis:7.2.4-alpine3.19,done
 bitnami/redis:7.2.4,cloudnativek8s/bitnami-redis:7.2.4,done
 bitnami/redis-sentinel:7.2.4,cloudnativek8s/bitnami-redis-sentinel:7.2.4,done
 bitnami/redis-exporter:1.58.0,cloudnativek8s/bitnami-redis-exporter:1.58.0,done
-alpine:3.19.1,cloudnativek8s/alpine:3.19.1,ready
+alpine:3.19.1,cloudnativek8s/alpine:3.19.1,done
+cobe1496/openmetadata:latest,cloudnativek8s/openmetadata-server:v1.4.0.1,ready
