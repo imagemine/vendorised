@@ -243,4 +243,5 @@ cobe1496/openmetadata:v1.3.1.10,cloudnativek8s/openmetadata-server:v1.3.1.10,don
 cobe1496/openmetadata:v1.3.1.11,cloudnativek8s/openmetadata-server:v1.3.1.11,done
 cobe1496/openmetadata:v1.3.1.12,cloudnativek8s/openmetadata-server:v1.3.1.12,done
 cobe1496/openmetadata:v1.3.1.13,cloudnativek8s/openmetadata-server:v1.3.1.13,done
-cobe1496/openmetadata:v1.3.1.14,cloudnativek8s/openmetadata-server:v1.3.1.14,ready
+cobe1496/openmetadata:v1.3.1.14,cloudnativek8s/openmetadata-server:v1.3.1.14,done
+cobe1496/openmetadata:v1.3.1.16,cloudnativek8s/openmetadata-server:v1.3.1.16,ready
