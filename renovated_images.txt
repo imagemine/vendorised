@@ -2,8 +2,8 @@
 # Format: {source_image}:{tag}@{sha256_digest},{target_image_without_tag}
 # Target image tag will be the same as source image tag
 
-node:18.19.0-alpine@sha256:0085670310d2879621f96a4216c893f92e2ded827e9e6ef8437672e1bd72f437,cloudnativek8s/node
-node:20.11.0-alpine@sha256:2f46fd49c767554c089a5eb219115313b72748d8f62f5eccb58ef52bc36db4ad,cloudnativek8s/node
+node:22.14.0-alpine@sha256:9bef0ef1e268f60627da9ba7d7605e8831d5b56ad07487d24d1aa386336d1944,cloudnativek8s/node
+node:22.14.0-alpine@sha256:9bef0ef1e268f60627da9ba7d7605e8831d5b56ad07487d24d1aa386336d1944,cloudnativek8s/node
 nginx:1.25.3-alpine@sha256:156d75f07c59b2fd59d3d1470631777943bb574135214f0a90c7bb82bde916da,cloudnativek8s/nginx
 nginx:1.25.3-alpine-slim@sha256:4b4bc9f88bd63fb3abc8fd4f5ad7f16554589ca1fca8d3a53416ff55b59b6f80,cloudnativek8s/nginx
 openpolicyagent/opa:0.61.0@sha256:a95f428397caa271b861fab52016fbd1a318a3052253569ee5d2d8f9f16e6ca2,cloudnativek8s/opa
